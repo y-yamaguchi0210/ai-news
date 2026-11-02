@@ -65,6 +65,13 @@ langSel.onchange=()=>{store.set("lang",langSel.value);render()};
 function ago(iso){const m=(Date.now()-Date.parse(iso))/6e4;if(m<60)return Math.max(1,m|0)+"分前";if(m<1440)return (m/60|0)+"時間前";return (m/1440|0)+"日前"}
 function dayLabel(iso){const d=new Date(iso),t=new Date();const diff=Math.round((new Date(t.toDateString())-new Date(d.toDateString()))/864e5);
   const s=`${d.getMonth()+1}月${d.getDate()}日（${"日月火水木金土"[d.getDay()]}）`;return diff===0?"今日 · "+s:diff===1?"昨日 · "+s:s}
+// AndroidではYouTubeリンクをBraveアプリで開く（Brave未インストール時は通常のリンクへ）
+const IS_ANDROID=/Android/i.test(navigator.userAgent);
+function linkFor(i){
+  if(IS_ANDROID&&/^https:\/\/(www\.)?youtube\.com\//.test(i.link))
+    return "intent://"+i.link.replace(/^https:\/\//,"")+"#Intent;scheme=https;package=com.brave.browser;S.browser_fallback_url="+encodeURIComponent(i.link)+";end";
+  return i.link;
+}
 function el(tag,cls,text){const e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e}
 
 function render(){
@@ -77,9 +84,9 @@ function render(){
   for(const i of shown){
     const dl=dayLabel(i.date);if(dl!==last){list.append(el("div","day",dl));last=dl}
     const c=el("article","card"+(read.has(i.link)?" read":""));
-    const a=el("a","t",i.title);a.href=i.link;a.target="_blank";a.rel="noopener";
+    const a=el("a","t",i.title);a.href=linkFor(i);a.target="_blank";a.rel="noopener";
     a.onclick=()=>{read.add(i.link);store.set("read",[...read].slice(-2000));c.classList.add("read")};
-    if(i.thumb){const ta=el("a","thumb");ta.href=i.link;ta.target="_blank";ta.rel="noopener";ta.onclick=a.onclick;const im=el("img");im.src=i.thumb;im.alt="";im.loading="lazy";ta.append(im);c.append(ta)}
+    if(i.thumb){const ta=el("a","thumb");ta.href=linkFor(i);ta.target="_blank";ta.rel="noopener";ta.onclick=a.onclick;const im=el("img");im.src=i.thumb;im.alt="";im.loading="lazy";ta.append(im);c.append(ta)}
     c.append(a);
     if(i.summary&&!i.thumb)c.append(el("p","sum",i.summary));
     const m=el("div","meta");

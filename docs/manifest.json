@@ -1,0 +1,14 @@
+{
+  "id": "/ai-news/",
+  "name": "毎日AIニュース",
+  "short_name": "AIニュース",
+  "start_url": "/ai-news/",
+  "scope": "/ai-news/",
+  "display": "standalone",
+  "background_color": "#4f46e5",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}

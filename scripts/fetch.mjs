@@ -16,6 +16,18 @@ const FEEDS = [
   { name: "OpenAI News", lang: "en", url: "https://openai.com/news/rss.xml" },
   { name: "Google AI Blog", lang: "en", url: "https://blog.google/technology/ai/rss/" },
   { name: "Hugging Face Blog", lang: "en", url: "https://huggingface.co/blog/feed.xml" },
+  // YouTube（チャンネルIDを追加すれば増やせる）
+  ...[
+    ["KEITO【AI&WEB ch】", "ja", "UCfapRkagDtoQEkGeyD3uERQ"],
+    ["OpenAI", "en", "UCXZCJLdBC09xxGZ6gcdrc6A"],
+    ["Anthropic", "en", "UCrDwWp7EBBv4NwvScIpBDOA"],
+    ["Google DeepMind", "en", "UCP7jMXSY2xbc3KCAE0MHQ-A"],
+    ["AI Explained", "en", "UCNJ1Ymd5yFuUPtn21xtRbbw"],
+    ["Two Minute Papers", "en", "UCbfYPyITQ-7l4upoX8nvctg"],
+    ["Matthew Berman", "en", "UCawZsQWqfGSbCI5yjkdVkTA"],
+    ["Wes Roth", "en", "UCqcbQf6yw5KzRoDDcZ_wBSw"],
+    ["bycloud", "en", "UCgfe2ooZD3VJPB6aJAnuQng"],
+  ].map(([name, lang, id]) => ({ name: `▶ ${name}`, lang, video: true, url: `https://www.youtube.com/feeds/videos.xml?channel_id=${id}` })),
 ];
 
 const CATEGORIES = {
@@ -53,7 +65,9 @@ function parse(xml, feed) {
       link = m ? decode(m[1]) : "";
     }
     const date = tag(b, "pubDate") || tag(b, "published") || tag(b, "updated") || tag(b, "dc:date");
-    let summary = stripTags(tag(b, "description") || tag(b, "summary") || tag(b, "content"));
+    let summary = stripTags(tag(b, "description") || tag(b, "media:description") || tag(b, "summary") || tag(b, "content"));
+    const vid = feed.video ? stripTags(tag(b, "yt:videoId")) : "";
+    if (vid && /\/shorts\//.test(link)) continue; // ショート動画は除外
     let source = feed.name;
     // Googleニュースは「タイトル - 媒体名」形式
     if (feed.url.includes("news.google.com")) {
@@ -69,7 +83,8 @@ function parse(xml, feed) {
     if (!title || !link) continue;
     const text = `${title} ${summary}`;
     const cats = Object.keys(CATEGORIES).filter((k) => CATEGORIES[k].test(text));
-    items.push({ title, link, source, lang: feed.lang, summary, date: isNaN(t) ? null : new Date(t).toISOString(), cats });
+    if (vid) cats.push("video");
+    items.push({ title, link, source, lang: feed.lang, summary, date: isNaN(t) ? null : new Date(t).toISOString(), cats, ...(vid && { thumb: `https://i.ytimg.com/vi/${vid}/mqdefault.jpg` }) });
   }
   return items;
 }

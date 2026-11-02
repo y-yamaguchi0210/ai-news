@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>毎日AIニュース</title>
+<meta name="theme-color" content="#4f46e5">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+<style>
+:root{--bg:#f6f7fb;--card:#fff;--text:#1d2033;--sub:#6b7085;--line:#e4e6ef;--accent:#4f46e5;--accent-soft:#eef0ff;--new:#0e9f6e;--biz:#d97706;--howto:#2563eb}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1117;--card:#181b24;--text:#e8e9f0;--sub:#9aa0b4;--line:#2a2e3b;--accent:#8b85ff;--accent-soft:#25244a;--new:#34d399;--biz:#fbbf24;--howto:#60a5fa}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Hiragino Sans","Noto Sans JP",sans-serif;line-height:1.55}
+header{position:sticky;top:0;z-index:5;background:var(--bg);padding:12px 16px 8px;border-bottom:1px solid var(--line)}
+.wrap{max-width:760px;margin:0 auto}
+h1{font-size:20px;margin:0 0 2px}
+#updated{font-size:12px;color:var(--sub)}
+.tabs{display:flex;gap:6px;overflow-x:auto;padding:10px 0 4px;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tab{flex:none;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:999px;padding:6px 12px;font-size:13px;cursor:pointer}
+.tab[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff}
+.row{display:flex;gap:8px;margin-top:6px}
+#q{flex:1;min-width:0;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:10px;padding:8px 10px;font-size:15px}
+select{border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:10px;padding:0 8px;font-size:14px}
+main{padding:12px 16px 40px}
+.day{font-size:13px;font-weight:700;color:var(--sub);margin:18px 0 8px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin-bottom:10px}
+.card.read{opacity:.55}
+.card a.t{color:var(--text);text-decoration:none;font-weight:600;font-size:16px;display:block}
+.card a.t:hover{color:var(--accent)}
+.sum{font-size:13.5px;color:var(--sub);margin:6px 0 0}
+.meta{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-top:8px;font-size:12px;color:var(--sub)}
+.chip{border-radius:6px;padding:1px 7px;font-weight:600;font-size:11px;background:var(--accent-soft)}
+.c-new{color:var(--new)}.c-biz{color:var(--biz)}.c-howto{color:var(--howto)}
+.tr{margin-left:auto;color:var(--accent);text-decoration:none;font-weight:600}
+.empty{text-align:center;color:var(--sub);padding:40px 0}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1>🤖 毎日AIニュース</h1>
+  <div id="updated">読み込み中…</div>
+  <div class="tabs" id="tabs"></div>
+  <div class="row">
+    <input id="q" type="search" placeholder="キーワードで絞り込み（例：Claude）">
+    <select id="lang" aria-label="言語"><option value="">日英</option><option value="ja">日本語</option><option value="en">英語</option></select>
+  </div>
+</div></header>
+<main class="wrap" id="list"></main>
+<script>
+const CATS={all:"すべて",new:"🆕 新サービス・モデル",biz:"💼 業界・ビジネス",howto:"💡 使い方・活用",unread:"未読のみ"};
+const CAT_LABEL={new:"新サービス",biz:"業界動向",howto:"使い方"};
+let items=[],cat="all";
+const store={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch{return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch{}}};
+let read=new Set(store.get("read",[]));
+const tabs=document.getElementById("tabs");
+for(const [k,v] of Object.entries(CATS)){const b=document.createElement("button");b.className="tab";b.textContent=v;b.dataset.k=k;b.onclick=()=>{cat=k;render()};tabs.append(b)}
+document.getElementById("q").oninput=render;
+const langSel=document.getElementById("lang");langSel.value=store.get("lang","");
+langSel.onchange=()=>{store.set("lang",langSel.value);render()};
+
+function ago(iso){const m=(Date.now()-Date.parse(iso))/6e4;if(m<60)return Math.max(1,m|0)+"分前";if(m<1440)return (m/60|0)+"時間前";return (m/1440|0)+"日前"}
+function dayLabel(iso){const d=new Date(iso),t=new Date();const diff=Math.round((new Date(t.toDateString())-new Date(d.toDateString()))/864e5);
+  const s=`${d.getMonth()+1}月${d.getDate()}日（${"日月火水木金土"[d.getDay()]}）`;return diff===0?"今日 · "+s:diff===1?"昨日 · "+s:s}
+function el(tag,cls,text){const e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e}
+
+function render(){
+  for(const b of tabs.children)b.setAttribute("aria-pressed",b.dataset.k===cat);
+  const q=document.getElementById("q").value.trim().toLowerCase(),lang=langSel.value;
+  const list=document.getElementById("list");list.replaceChildren();
+  const shown=items.filter(i=>(cat==="all"||(cat==="unread"?!read.has(i.link):i.cats.includes(cat)))&&(!lang||i.lang===lang)&&(!q||(i.title+" "+i.summary+" "+i.source).toLowerCase().includes(q)));
+  if(!shown.length){list.append(el("p","empty","該当するニュースはありません"));return}
+  let last="";
+  for(const i of shown){
+    const dl=dayLabel(i.date);if(dl!==last){list.append(el("div","day",dl));last=dl}
+    const c=el("article","card"+(read.has(i.link)?" read":""));
+    const a=el("a","t",i.title);a.href=i.link;a.target="_blank";a.rel="noopener";
+    a.onclick=()=>{read.add(i.link);store.set("read",[...read].slice(-2000));c.classList.add("read")};
+    c.append(a);
+    if(i.summary)c.append(el("p","sum",i.summary));
+    const m=el("div","meta");
+    m.append(el("span",null,(i.lang==="en"?"🇺🇸 ":"🇯🇵 ")+i.source+" · "+ago(i.date)));
+    for(const k of i.cats)m.append(el("span","chip c-"+k,CAT_LABEL[k]));
+    if(i.lang==="en"){const t=el("a","tr","日本語で読む");t.href="https://translate.google.com/translate?sl=en&tl=ja&u="+encodeURIComponent(i.link);t.target="_blank";t.rel="noopener";t.onclick=a.onclick;m.append(t)}
+    c.append(m);list.append(c);
+  }
+}
+fetch("data.json?"+Date.now()).then(r=>r.json()).then(d=>{
+  items=d.items;const u=new Date(d.updated);
+  document.getElementById("updated").textContent=`最終更新：${u.getMonth()+1}/${u.getDate()} ${String(u.getHours()).padStart(2,"0")}:${String(u.getMinutes()).padStart(2,"0")} · ${items.length}件（毎朝自動更新）`;
+  render();
+}).catch(()=>{document.getElementById("updated").textContent="ニュースを読み込めませんでした";});
+</script>
+</body>
+</html>

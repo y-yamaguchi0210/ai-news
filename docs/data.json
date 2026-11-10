@@ -1,6 +1,1125 @@
 {
- "updated": "2026-11-10T03:16:36.161Z",
+ "updated": "2026-11-10T16:44:52.424Z",
  "items": [
+  {
+   "title": "Googleが新AI「Gemini 4 Carbon」をリリース。サブスクはUltraのみ利用可",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84RkZPRGF2dDhEUnpNRF9scHprV3ZWcWcwRm5QWnZ6OHRmYVJtQy1ZQUtrY1ZkZ3FsaE1rMmdUdERER0NTQUIxWDJpaFhKN3RiUmpMcVFrWGFBc3FEMFpRcTZQMFVIWmNvazNpMw?oc=5",
+   "source": "Gizmodo",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T16:35:00.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "eBay appears to have shut the door on third-party AI agents",
+   "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+   "source": "The Verge AI",
+   "lang": "en",
+   "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Ve…",
+   "date": "2026-11-10T16:20:30.000Z",
+   "cats": []
+  },
+  {
+   "title": "Claude、Fable 5.2の初期実験を公開、3D細胞から折り紙まで",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2U0WTBLNXFnc1RoUDg4aXdQUnBMUXM5TlBPVVJsbXhoVTlEVDc5UHByMXFoZGdFYnl6dHNLd1hhSGFlV1FGYkJIeFBtSE5UZXdNSWhvOUpWYjhEZldRWHh0VFpKbWNDY3RUVUpKdTBuMWdueWk1VkFUdU95WkFtUUlhQ3pBUnRWb2M3YXNwN2U?oc=5",
+   "source": "Pasquale Pillitteri",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T16:05:44.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Greg Brockman on how OpenAI uses frontier models for cyber defense",
+   "link": "https://www.youtube.com/watch?v=vdEGZYIvFiI",
+   "source": "▶ OpenAI",
+   "lang": "en",
+   "summary": "We’re turning lessons from defending OpenAI into practical tools for our customers. OpenAI President and Co-Founder Greg Brockman shares how we used a frontier …",
+   "date": "2026-11-10T16:02:15.000Z",
+   "cats": [
+    "video"
+   ],
+   "thumb": "https://i.ytimg.com/vi/vdEGZYIvFiI/mqdefault.jpg"
+  },
+  {
+   "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+   "source": "The Verge AI",
+   "lang": "en",
+   "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ag…",
+   "date": "2026-11-10T16:00:00.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "source": "TechCrunch AI",
+   "lang": "en",
+   "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+   "date": "2026-11-10T15:54:08.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "Gemini 4 Carbon、AntigravityのビルドにLow/Medium/High版が出現",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeGRqSVVISlNlRG1hbk94Qzg0clJEeFZFNDVXelJEZkhZN2JpUmRGcVlLZFVWcFpPbUZ5TTRqR2RSQU9yR0l4TUVtUjIzMlVkamNwZzhWb0Q4M2ZnRXZKVlkzekZrWFdfNHl1RUc3YUxoYUhzcjZ3Ty1MVk1pTWtvdU0tU3k0WDBfSlhnM3lOcGl5UEpJ?oc=5",
+   "source": "Pasquale Pillitteri",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T15:53:44.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "『月島もんじゃを世界へ！AI×Webを活用したインバウンド販売力強化プロジェクト』2026年11月より本格的に始動",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5veVAwYzJwUllZcEFybVVpNGNDU3psZ1lqbkNubzZtakRBUUo5YmY4VU5uamdobVYwZDR3UzQ2YVYydEVrbmtPYnBVY2t0TWticEJLOVhzVUtoSEVRdnBkV0ZVMm1BRmJ6azFOemV1Ty1RbTFKekE?oc=5",
+   "source": "ニコニコニュース",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T15:48:30.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "生成AIが選ぶ「Webマーケティング」、1位はサイバーエージェント（言及率50%）【2026年10月調査】",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBubHJ4cmo2bGdqS1RyUE9TaGs5Ri1Lc1dxczVNWUFUOFBXd3YzSE1ZMzlnS29wNWxfcmlESi1NRjVMdjNQQkduUXlkMGR0c1lIMjVKQmw5UGhBSWNMMDBybnN5MUQxUQ?oc=5",
+   "source": "ニコニコニュース",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T15:30:29.000Z",
+   "cats": []
+  },
+  {
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "source": "TechCrunch AI",
+   "lang": "en",
+   "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+   "date": "2026-11-10T15:29:30.000Z",
+   "cats": []
+  },
+  {
+   "title": "【検索流入が1/10に急減】元地方公務員が開発、AI任せにしない中小事業者向けWEB発信スキームの実証モニターを募集",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VWGxjOFNjRUdKNjFfcXBvVFV3TDhsTDRJRU1LWWg5WFVQUEJrc3VVU2xzSGRGam5KZ0g1UTRzLVJ6WjYzeUFYemtpaUJuSHNfNnhlNUJhQ0tuMDdldGZvVENVQ0FvVjB0R3BlWW56VXFaR0VuU3hDQUNsRQ?oc=5",
+   "source": "ニコニコニュース",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T15:21:34.000Z",
+   "cats": []
+  },
+  {
+   "title": "neoAI、AIエージェントによるCADアプリ操作を実証 ― 製造業の図面・CAD業務へのAI実装を加速",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVRlhxUmtRYmZGTm5ZWktaOV90YjE3V2NaZGlSbnpFVFM3UDRjZ0NqczVVc2NKWDN5X05qZzFaTWM2LXEyaUFxT2lYMlFtSkFrTE1ZcWdKaEdyeVBGUzVRTDkwQXZmY3ZCWXdCVDZVRkZfdw?oc=5",
+   "source": "Infoseek",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T15:10:02.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "How CodeRabbit uses OpenAI to review AI-generated code",
+   "link": "https://www.youtube.com/watch?v=ZTxzWJeGFAA",
+   "source": "▶ OpenAI",
+   "lang": "en",
+   "summary": "CodeRabbit co-founder and CEO Harjot Gill explains how the team uses OpenAI models to help teams understand, review, and secure code produced by AI agents and d…",
+   "date": "2026-11-10T15:05:40.000Z",
+   "cats": [
+    "howto",
+    "video"
+   ],
+   "thumb": "https://i.ytimg.com/vi/ZTxzWJeGFAA/mqdefault.jpg"
+  },
+  {
+   "title": "Hops、チームで協働できるAIワークスペースを一般公開",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZVlqRGFHYzNaV1JPODl1a0ZaME5OMWxGdUFxTG1mT3NPOWxxSi1pUHhwR0xrbnFtT1FveGFDSXVLVkF2MlBXeEhKeGkzUTh6dklORVZraUdDZXlQWmtqY0Zoa1JpcnoxaHZNUklvdWRvZXd2aXdyTmY0aklfQnMxZ2N4TEdheHdSWFE?oc=5",
+   "source": "Unite.AI",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T15:01:01.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Gemini Nano、使ってますか？",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkUmZFSzhEcUdiWF8wMnl0cWhkU01XSUtaQ0pxcDhOcGpXRFIyNndsSmVrNTBuZU5QVy15eHE0V0xqUlFyTjhOSUtxYXcxcDRhdUxWZmYycm5leXZJNS1fb3VocG5NeWtTMVdaeUd4ZmJzUQ?oc=5",
+   "source": "ケータイ Watch",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T15:00:00.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "企業のAI活用を、部門最適から全社最適へ。ユーソナー、データ戦略クラウド「ソナーレイク」提供開始",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mXy03S0diYkNvMFNHV3cxc2tUQ0ZPR1NKVHlGNVd5UlF5Nk9fbVNZMFZHNU9raG8xRGFVWXVvSkl4QUFmeTh0R1c1ZjJOOEpKUFdMRkVfUUFYZ0NPVzhtdWktTUdPMDJwTnNINVpoOXd1QQ?oc=5",
+   "source": "Infoseek",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T14:40:00.000Z",
+   "cats": [
+    "new",
+    "biz",
+    "howto"
+   ]
+  },
+  {
+   "title": "アドビとグーグルが提携拡大 Geminiで画像・PDF編集 GmailからAcrobat",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QQzBEOWVqTUVUVnh4YTBET1B6QWNmSHpLR1drd0Y0UXlUelpjamFFMThkaGljTGlqcnlzMlo1dElMLTlyOG1ySU9GRzhoM2pxdVB2eDJLOXVvTnpEMHNV?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T14:36:15.000Z",
+   "cats": [
+    "new",
+    "biz"
+   ]
+  },
+  {
+   "title": "一枚の絵を100回描き直しても劣化しない──ByteDanceの新AI「Seedream 5.5」、透過PNGも直接生成しDreaminaへ",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE92Z3lLQTh1MjhQZXM5UVk0TjVjQi1TU3M1N1hZNGhHc0g2Z1B4RlRFVnN0TVF3eHVqSFMwUEQ4Qkxwdw?oc=5",
+   "source": "shiritomo",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T14:34:23.000Z",
+   "cats": []
+  },
+  {
+   "title": "アシュアード、Claude Mythosを活用した「AI総合サイバーリスク診断」の提供を開始",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yNTk0Rk9nSXdpa3lFUGE5ay14djAyTG85bU1yeno3NDlpdXdJMHFWRFpGel9xbENxaksxMzI2cjZzUElPWWR0T1ozU2lXQ2VXTjdLWmhqQ1lHd0tidWxqQnZmaFYta1d1VmVyUE40TzI4YVZhWVh5elZVSQ?oc=5",
+   "source": "ニコニコニュース",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T14:30:21.000Z",
+   "cats": [
+    "new",
+    "howto"
+   ]
+  },
+  {
+   "title": "Hedra、現実世界のAIを訓練・展開・改善するModel Factoryを発表",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0JBQVE3Z2pKQnRRWlpZclVIb3Y2bUpyZ29SRElmT1JaRGhlUTJwUmdTS2FnU2VMX1hVMDhWd1Rsa0hUQ2tqWV80Q1lIZVgyX1hFM1kxbHI1a2MycVZ0ZlE2STY3UEszb2YwMXNfOTRMVE1lN2ZPUzVfM21zZDdOWmoxREVCWVE?oc=5",
+   "source": "Unite.AI",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T14:30:00.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "IntelとAltera、フィジカルAI向けモジュール式センサーブリッジを開発",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSWZOajdLMldrTkQyS21WbUdiOVRoeEpIY3EzMzVIMmRGLXZKajlpb3Jic1ktc2V5cjNkaGt5SUZxVEN2SVRqckNKYjNGMTFHRnlUS1h1ZHJuSlNjVV9Nc0VGZ18wVW01T1pqZk5pMFhCN1R4Z3dvdlU2akc2LVZnSjlmLXFpUGs5UGgzQzRTSnlGUQ?oc=5",
+   "source": "Unite.AI",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T14:27:01.000Z",
+   "cats": []
+  },
+  {
+   "title": "SaaSは解約すべきか？生成AIで情報システムはどこまで自作できるのかを実務家が解説する勉強会を12月15日(火)に開催",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YcTlHTk4ya3BJWmpUZDFITExLZHJPUEdkNEVUOTduVmtDbVF1YTJTZUVGNWJZY0lMa0lNSVFWR2R4WmdLdXQ0clFPaUJFd3A2eGR5OW96eXRESW9XOVY2Mms4WHNmWE5H?oc=5",
+   "source": "ニコニコニュース",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T14:21:15.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "Google、Drive、Gemini、検索でAdobeとの連携を拡大",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVE5UZXcyS0I5cXhCTXdaeWVkUkwwT3lVbjBEYm1OekRUT3ZOUnM4U0JOMEQ5TWFZZmdjUjJROVJPQ1Z0Mzh6NmFEd3FpTkk4Y0duREVfVmU5ME4wTTBiaEM0bmd4cEV0UUJJcWxpd1gwT0NVR0U4Z2NHUVhZWDRKMG5wb0pFQ2x6aFlxYzh3bF9zQUU?oc=5",
+   "source": "Unite.AI",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T14:15:03.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Google Cloud、医療向けエージェントAI「Gemini for healthcare」発表",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1paHZQQkV1Szhrb2wtYUdsVkQ1aFNhVjBZVWdoU1gxWlVZWlI0clFEbkswVUZNTmFSNUllclY3Mk5fNVI1OTVZUWFqTlUwOEJZdWQ0YlVTclZ5OTM0U0pTZy12aDkwb25JOVBEOWVOZUlTN2tFN3JIVw?oc=5",
+   "source": "Jetstream",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T14:14:34.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "AI時代のサステナビリティー",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YTGJuRExzN0RFNXdTanU2YkY1cFBVV0x2dXd6dzkxVWtnbnE2Z01vaXlDejNzQnZjS0l3LXBKTU1kVDc1eE1uMEtYVDNUYWVNTExwNVU4eXM1YmxhRkhyZEpGZzZMcERiUXF0WTlTRW13bFE?oc=5",
+   "source": "IBM",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T14:09:32.000Z",
+   "cats": []
+  },
+  {
+   "title": "Anthropic targets $1.4 trillion IPO",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+   "source": "The Verge AI",
+   "lang": "en",
+   "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be…",
+   "date": "2026-11-10T14:06:54.000Z",
+   "cats": [
+    "biz"
+   ]
+  },
+  {
+   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+   "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+   "source": "TechCrunch AI",
+   "lang": "en",
+   "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+   "date": "2026-11-10T14:05:10.000Z",
+   "cats": []
+  },
+  {
+   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+   "source": "TechCrunch AI",
+   "lang": "en",
+   "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+   "date": "2026-11-10T14:01:39.000Z",
+   "cats": [
+    "biz"
+   ]
+  },
+  {
+   "title": "アドビ、クリエイティブツールをエージェント化。Google等と提携",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zUlh2UGhUMU04OUNGaGp6TmFKVUREXzlfamlBMHdSUW1EWnMzc214U0Fza3M1eHNwMm9reEUtc2RvVkQ5TTRBelZYVk5HdlVwRXJuV0RpM19QX0gzbjZVby0zNA?oc=5",
+   "source": "株式会社インプレス",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T14:00:00.000Z",
+   "cats": [
+    "biz"
+   ]
+  },
+  {
+   "title": "Travel + Leisure Co.、AIによる旅行計画を予約につなげる「VOYA」を発表",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YLUlVZ2xIVHU3cjlLeHJJTTktWUdPSnlOYWJZQ3ZGM2x5M3IzYWk0Yld0M3cyd2ZRb3VqU2hmTE81QXVwVzR3SlZoZnBaVVN1NFdFQWpaNDZhZTNQZ1hnV3VET0prRzdnR0FCUGdKcEVKSmtPLWJRUGdfUU5ZWmM?oc=5",
+   "source": "Unite.AI",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T14:00:00.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+   "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+   "source": "TechCrunch AI",
+   "lang": "en",
+   "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+   "date": "2026-11-10T14:00:00.000Z",
+   "cats": []
+  },
+  {
+   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+   "source": "TechCrunch AI",
+   "lang": "en",
+   "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+   "date": "2026-11-10T14:00:00.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Adobe is going all in on agentic AI",
+   "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+   "source": "The Verge AI",
+   "lang": "en",
+   "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tas…",
+   "date": "2026-11-10T14:00:00.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+   "link": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+   "source": "The Verge AI",
+   "lang": "en",
+   "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicate…",
+   "date": "2026-11-10T14:00:00.000Z",
+   "cats": []
+  },
+  {
+   "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+   "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "source": "Google AI Blog",
+   "lang": "en",
+   "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+   "date": "2026-11-10T14:00:00.000Z",
+   "cats": [
+    "new",
+    "biz",
+    "howto"
+   ]
+  },
+  {
+   "title": "Hyland、企業コンテンツとAIをつなぐOpenArchをオープンソース化",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjdaaFVkazU0T1VwUGVqNmVZTTA4Y3VTZ1ZNSjdpMDI1NVlrdWUwakVXdWNKTDVRSS1POFc4UVBFSDhtUG00STlKV1dvR05RMHg0c1FsTk5Ea3Z3cmI3cUQyM1BIZndld1N3cENNaXAwdlQyeGpzVk8yNlNaSFRPekJVX2FKdW1Qd0pTbXV6MEMtd2s?oc=5",
+   "source": "Unite.AI",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T13:58:01.000Z",
+   "cats": [
+    "biz"
+   ]
+  },
+  {
+   "title": "【11月27日(金)17:30～・無料オンライン】2027年の営業DXを加速！生成AIでターゲット抽出から商談後フォローまで効率化する実践手法を解説！！",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93eFl2cEpUOHRtaERrZ2ZnZXd3UFdRLThCX0FOUm03T1FYSTNLWXlKY0ladGFXU1E1QXQzdVVLNG55Z2RzZTNSOEFBdmVUdW1vTXktc2lQRGlDbWxCZFZkMVVZamJ5czNLUnhDNXFicjVqdHlD?oc=5",
+   "source": "Excite エキサイト",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T13:45:00.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "UiPathがGoogle CloudのGemini医療向け製品のローンチパートナーに",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuRzlVUi1kRGpJUS1BSlhXcGktN2dvUVdpVnE2Z0xYV3dPNmZBVk1XcmhIM1g4Nm11REhVYldkTVRjeXlCaTNWWGZ6X0ZEYWQ5ZDZJcFk3UXdGYWRaWWhDZ3Vvbm9mUE5nT096b0tKSm4?oc=5",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T13:37:00.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Hands-on with Ring’s new AI drone camera for your home",
+   "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+   "source": "The Verge AI",
+   "lang": "en",
+   "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie…",
+   "date": "2026-11-10T13:30:00.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "Google Cloud、医療向け AI「Gemini for healthcare」を発表。米国でプレビュー版を提供開始",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbS1RQlhqZUtsUkFrZ2tmRlp2MUIzUG1lcnFXUUxWTTZjV0VmRTJ3ckVHUWlwZXVYVHVZRDVjMG56TEdOdWVMbDk3VHJnLTVfWlJLQUZfWHdxbTBUVWhEWV84Z0FBVjFUYzV5alRSRjlwWThUZVktQWFSMGtvRjJSdGpqMA?oc=5",
+   "source": "HelenTech",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T13:24:46.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "GoodRxがGoogle CloudのGemini for healthcareと提携",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PLWhaOGhMT3FPMk5TUmpDX01DMzU2T0NySXl6YjhJSzktQ2ZGd2ZDMEdMTk1pd08wT19ZYVUzUkwxaDZMT0gzejVnd2Q3VXp5bnRNQ3dOeXV5S2otMXU4SXRocXBtcHR1WjRXcnVqaE0?oc=5",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T13:17:00.000Z",
+   "cats": [
+    "new",
+    "biz"
+   ]
+  },
+  {
+   "title": "日本リスキリングコンソーシアム「月間アクセスTOP10」第2位獲得記念！「Copilot × Microsoft 365活用講座」第1回無料招待枠を1,500名に拡大",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PZXc0c3NHWTNncE9tMEZRSm8xYkZLbTltMWM3WnFFNFFkTmtMcV9BeWQxcmoxREJ0dzFQTmpGQmNvdUNfNzFqNmp6em1uS2FQUmUzQ0RPSlpfajlqSEc1MW44a0lENHR3ZGg2Mjd5YWViZlZm?oc=5",
+   "source": "Excite エキサイト",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T13:15:00.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "Linksenpai代表・吉田志織、早稲田大学のイベントに登壇。「爆速AI時代」の教育事業におけるAI活用を語る",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85dEg2YjNqeDhHZ2gxTDc5cVFKbzJZMk1fWEdWY3RXRTVvNjBYdjlhVHd4RmJjSlVtTDExa0s4eDhBMzg5WTllQlBnaFVXSDZOSUNBUzhfMXNFMjRvY3ZRaTNia3FsUzdFdkdR?oc=5",
+   "source": "時事ドットコム",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T13:10:00.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "OpenAI Academy、米国5都市で介護者向け無料ChatGPT研修を実施",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TdUNhMWxsT1pZaUZVbE0tWDk1MUQ0Nm4zeDRsT2ZIbnNmLXhHT0JtcjdGT0s5OFVleDN5SURpSm9RSlFuYzJRbWZHMm9fYjRtdkpoZlRnb1RvN1ZCd2xwd2xJNElad1dDT3doZGxNRWttYU5j?oc=5",
+   "source": "BigGo ファイナンス",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T13:05:00.000Z",
+   "cats": []
+  },
+  {
+   "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+   "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "source": "TechCrunch AI",
+   "lang": "en",
+   "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibil…",
+   "date": "2026-11-10T13:00:00.000Z",
+   "cats": []
+  },
+  {
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "source": "Google AI Blog",
+   "lang": "en",
+   "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+   "date": "2026-11-10T13:00:00.000Z",
+   "cats": [
+    "new",
+    "howto"
+   ]
+  },
+  {
+   "title": "Helping caregivers use AI in everyday life",
+   "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "source": "OpenAI News",
+   "lang": "en",
+   "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+   "date": "2026-11-10T12:00:00.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "Cognizant、2万5,000人超の専門人材を擁するClaudeマネージドサービスを開始",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPenYtdFJrNXN3VTRCaVNBYzd6clpweGpyWjR1MVhhRUU0UGlzTDAybGdkWk0ycmY1ZDVBQWc2djZqMVg1SHhWZFgzVW9pdF8yaW9hczZPNThnYzA0dGxkX09wbXZkdko4UjhNS1VwSVQ5bHlPNmJldUJ2M2M3ZXZIeklQa0hsdjczbTZyajRrQlA5TE9DX09ib0wzSk9FbGs?oc=5",
+   "source": "Unite.AI",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T11:55:02.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Claude Fable 5.2、甥の手描き企画書がひと晩でゲームに",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5uaGt1MUVBRHVoN3Zlem8yeUcyNlFEeVNXazVsV3JJQU9CcXpHajFzRTJFeWdubndLaDdRQkxR?oc=5",
+   "source": "ゴリミー",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T11:48:32.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Anthropic新利用ポリシー、11月12日発効―Claude連携機器に接続断時の安全確保を要求",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tM3BoMzVRWlpvUkNjb0E0eEo2Z0tBTmItaFpDR3hLd2p6N2RXRXlkMk5XUW5PMk96ckc4QnExbEZ5Sm5TbmVybFdsbmZYaFpoTG8yV2gyOVhfN2o5eGI5YmcwQdIBaEFVX3lxTFBOaU11ZkFmZ2JOQWhVWDlMVkVWMFYwWHptVUgyNGhFWlNpSjdyLWxxWWNlbnlvM2psNUw0R1hpaHk4d09kSDRZU2NXSS1BMGxYX0M3cHdMdnZXSVN6RkxRRC1Nc2FnMDMx?oc=5",
+   "source": "財経新聞",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T11:23:16.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "【オープンキャンパス】AIクリエイター・852話がAIを活用したアニメ制作について解説！11/27（金）「生成AI時代のアニメ制作ワークフロー」（オンライン・無料）",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mVU4yclZhYWpFNWNBZms0NlQ1ZFh0Q3k5X2ZoUWZneV85SVFqc0RReVRmcWRmNU9UOXZZVXlfU3VzVk5pSFBRbTk4UmxYQ1N1WmpteElhM0x1V3dLOVQ1RFhwVGZ3c2w2Vnc?oc=5",
+   "source": "PR TIMES",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T11:00:01.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "安保3文書改定 AI活用への政府の考え 海外事例や懸念は | NHKニュース | 安全保障、防衛、防衛省・自衛隊",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLcUlkM25KNzlGNk5UYVhDdVZ6d1lRbzQtNm55VGg1d1VvdTRNem5WcTBYNDZidGJKOXkzTWliV0pQSEtGVjV6R3RHZkJ2Z3NrTzdGUjllVi1QQjBVeno0?oc=5",
+   "source": "NHKニュース",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T10:58:38.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "グーグル「Gemini」に5つのワークフロー機能を追加、ワンクリックのウェブサイト作成から音声による文書作成まで",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tQVUzYWZ6cGFuRG5tcDB5SHhPUGcySExLSTY3VXFYamJpNExiUVNmNjVCNGp1djBQNU1PWDhaVENQSnFPRzJjc3QtUjU4M2haX0hUMVJQQ01fRW5WT0I2MW5TdlRqZGdmWGhrTnM1d3dCUFox?oc=5",
+   "source": "BigGo ファイナンス",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T10:55:00.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Claude Fable 5.2がMythos 5.2と同時にリリース：エントリー価格が100万トークンあたり10ドルから8ドルに値下げされました。",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMlZJNUQtSjVKcXBSdk1VMnNCdEJVUnVlaDl5UEh3cGh5UFJxaEVZS1B6RWdqcXB0bF9MQXg4QlEwNkRXeGlkVXAxNS0zVEJOVFJYelRleEdmdFN1R0R0aUNLNnd0NmpORDg3RDk0MmVoZXgwb2t6WGpaNEM3LVE1ei1DYmxNMWRQUFBHc19kWnViWVl3SUZhUEFyeElidHNueHhCR0FSdlpzUmtNSzBuYWhsRXhFWi1jaFY0dA?oc=5",
+   "source": "Vietnam.vn",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T10:54:33.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Unreal Engineに生成AI機能が続々。制作中のシーンから画像や3D素材の案など生成する「Unreal Canvas」搭載の5.9プレビュー版が公開",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90cU9MS083Yjdjemt4RTQzX1VEaWw2Rmc4SERXZk10QnVaem1lVnYyeWNHSEh1ZE1PcWN4YUNJdjgwaVhvSkU1VVZkaEk0VF80R3NnWFJhYS1rbmp6ZG5mZFVweTFjUQ?oc=5",
+   "source": "Game*Spark",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T10:30:03.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "XRグラス“XREAL AURA”に触れてみた。Android XR採用でゲーム中にDiscordしながら“Google Gemini”に攻略法を聞いたりできちゃう",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuaU56NGMwTXZ5bGc0NjFQZFFEQ0VFWk5nZThQMW1rTGtzZ0daTjlCc192YUEzUmYtOTZ4TnAyOExad3VBVURBRl91RzllbkNQdVNvTkk4bw?oc=5",
+   "source": "ファミ通",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T10:30:00.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "数百社が使うシスコのAI DefenseにMythos投入 攻撃者並みの推論に自社AIは耐えるか",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJalBoODVnQThZNmU3dmZpTWVjVTZhREE3dHBqVjE2bG56Qk1nbEdrYzdMSUhPRVNPTmNtYmN3R29Kc2ZlWmpBMXk4dkl0MlpESWVN?oc=5",
+   "source": "ビジネス+IT",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T10:17:00.000Z",
+   "cats": []
+  },
+  {
+   "title": "Is Software Over?",
+   "link": "https://www.youtube.com/watch?v=vug73goPJaM",
+   "source": "▶ Two Minute Papers",
+   "lang": "en",
+   "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The papers and sources are available here: MirrorCode: https://arxiv.org/…",
+   "date": "2026-11-10T10:15:57.000Z",
+   "cats": [
+    "video"
+   ],
+   "thumb": "https://i.ytimg.com/vi/vug73goPJaM/mqdefault.jpg"
+  },
+  {
+   "title": "FIXER、NVIDIA Partner NetworkにSolution Advisor として参画～既存GPUサーバーの活用を支援し、生成AIの業務利用拡大へ～",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53ZkdfMklZUXVCZ1NtaDZMcWtLbHhvX1JCZjdYRXNuVG5ONFdFMUpGbndYTHk4N0ZLYlNJQmhVNDQ1RlluT052R2RlenFlT3h5NFp6ZkxXSWJzdEtPNEFVc3I5RWMyLTduY2xjYjRTSm83Vk9GRlFmTXRR?oc=5",
+   "source": "株式会社FIXER",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T10:13:15.000Z",
+   "cats": [
+    "biz",
+    "howto"
+   ]
+  },
+  {
+   "title": "民間放送全国大会で民放連会長 生成AI時代、「正確な情報を伝える放送の役割は重要」",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tdzRSUTNpZjJCeWFqRUhhR1NZdVNnOURCLWtoNTNCVG8tQTd0MTN3TnNEVFZjYklFdktOQjdlUFlseFFiSHVheVBRYWZNSXN6cnV3czluUjFkSG03U2FVNDJudjlWMXQzcnZNWW1pMXctRURneHc?oc=5",
+   "source": "産経ニュース",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T10:11:38.000Z",
+   "cats": []
+  },
+  {
+   "title": "Claude Fable 5.2が凄いらしい。安くて、早くて、性能UPは本当か検証！",
+   "link": "https://www.youtube.com/watch?v=x7hmExbBghY",
+   "source": "▶ KEITO【AI&WEB ch】",
+   "lang": "ja",
+   "summary": "Claude Fable 5.2は本当に安く、速くなったのか。5.1と同じ指示でWebページや3D、ゲームを作り、仕上がり・時間・出力コストを比較しました。さらに、一行のお願いから動画制作にも挑戦。料金表だけでは見えない違いを、動く成果物とともに紹介します。 ▼KEITOの公式LINEはこちら LINE：https:/…",
+   "date": "2026-11-10T10:00:31.000Z",
+   "cats": [
+    "new",
+    "video"
+   ],
+   "thumb": "https://i.ytimg.com/vi/x7hmExbBghY/mqdefault.jpg"
+  },
+  {
+   "title": "アウディ、新型コンパクトEV『A2 e-tron』量産開始…開発期間21カ月短縮・AI活用で生産革新",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ic09BV1U3Ti1NODBQbXBZNGlLaWU5VnR5clh4cDRCOWR3MWN1cVdEUmdVTDc5T1N1cGZrTllwaXR2SnBwZUxXczVXcFZ5Z0prbnJSRUs3SERzWUVmdTU0?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T10:00:03.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "OpenAIも参入、企業システムを変える「判断特化型AI」が急成長 ～なぜ今、文章を生成しないAIが求められているのか（窓の杜）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04dGNET2E4ZG5YellvcERvVmFYZm50SHNqano1a2ZXeXEySDMyelByanJtTHd3ZnFqd2pSYng2dFFjOHlTQXFibTg5VXVhczl5b19QenpPMHVsSmFleUFCc1p0dUJ4WFlXWFpieko1OW1jOW5IejV3V010TnRiU1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T10:00:00.000Z",
+   "cats": [
+    "biz"
+   ]
+  },
+  {
+   "title": "70年分の図面資産を活用、AIで検索工数を約9割削減へ Recursiveと空研工業：FM",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EVEZhOGV5Sy0xcFp5NUNweFliVU5MVnNNM0IwcHRZZUpiS0V5bjBoV3lXalM3V0h5ZFNwNHpWY3M5YVNvbWhHSDdBbGZ5cng2enFsRE1kY1J4VTBnbFR5UF9kWlRQWWxuOTVvMw?oc=5",
+   "source": "ITmedia",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T10:00:00.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "アドビとディズニー、AIツール活用で戦略的提携",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtV1l4YTNWMncxZFJiSW1mUXdSdmJpdERzYkhQOTczcVFlWXhpYWdCeTZhNkZNb0hDaW1fQlh5aHdlR2tSRk53clItcUNWeUdBeFNFUDdkMWV4N1RzSmhkaXVnbXo?oc=5",
+   "source": "Impress Watch",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T09:44:58.000Z",
+   "cats": [
+    "biz",
+    "howto"
+   ]
+  },
+  {
+   "title": "Anthropic、Claudeに会議・ホワイトボード・スプレッドシート機能を追加",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVG5FT0t0WHBhVW9jbGwxR3BRRzl3NV8yZHZsNFd6V2ZtVXkyc1ZTTTluZjNmeTFMR1RmV09NbFF4MkJhWGpFV05BbnhHcFc3VzA2NWVuY2k2MGM3bnlUWVhOTGlOdXJyUXZJaklaYXJPd3Y3UnBnQ1BLT3dKaFpFSGNmTld4Ni1XbENjNE83b1RfZUpIOEZCektaVk5MRW56TzMwQlU4SDIxcWc?oc=5",
+   "source": "Mezha.net",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T09:33:00.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "AI活用で管理部門削減 豪カンタス航空、850人",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5abXVwaUZCSW02cHBqUXFfRjVsR0RidEh1dzVpU0pETDc4U3Byb2ozUHdBRVpMa2doQnl4YUZNMkVQY1lDbzNuM25HcTVZMXhiWVVKTFg4TVI5MmNxcXBuTjd3Yy0?oc=5",
+   "source": "北海道新聞デジタル",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T09:30:58.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "ＡＩ活用で管理部門削減",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BMlVHNGE2a1o2YWxQc1VjWkJVUGM5SG5MbGsyLV94Y1NPS3VNN1VWd1BwLVFxYUZfLUZMSnp3aFhFWlR1aW9BRTVJMEk1SEdZbWpOejZzRnpYd280VzB0bGFZbWlIMUkxczhuanF0U3dWWW1iMm1GdQ?oc=5",
+   "source": "デイリースポーツ",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T09:26:00.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "シスコ、Anthropicと提携 Claude Mythosで企業AIエージェントのレッドチーミングを実施",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mUGZDOEp3NDlUa21RcWVGVHdSN19yeklsc3FZa09KckFtemp4akRmX3Q3WmNpOTlWRTVrb0FqaEhpUWtXWTh3ZE8xOGhuMm9vZmpteDRQWm9vQ3BmX1MteFRvX3AxQU1ELU9kSXZvV3QzQnVt?oc=5",
+   "source": "BigGo ファイナンス",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T09:26:00.000Z",
+   "cats": [
+    "new",
+    "biz"
+   ]
+  },
+  {
+   "title": "【写真】ＡＩ活用で管理部門削減 豪カンタス航空、８５０人",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZdG5SMUxYV3Faa0NQWTFsLVYzeW9DYV9CSmYtVFI5THFnX0NnTTFYd3FybDIyNk55V1BJUUVaMlFfQzN5MGxJejZGUkYzZ05yY21nM25MS1hVcjVnOXZ4M1JkRFJPX2lN?oc=5",
+   "source": "南日本新聞",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T09:24:28.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "ＡＩ活用で管理部門削減 豪カンタス航空、８５０人",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yZjU2eGFVMkY2TloxSXBKNG1DbHdCdnRaZE9RenJrRkV5Z2U5aFFLNDFqMi1Sdi1PUFBzVkNVOUVCSGY3Z09HSHA3SEVvTGpzUk1ZekNrZks1Tl9z?oc=5",
+   "source": "琉球新報デジタル",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T09:24:27.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "国際興業、AIカメラを活用した「バス乗員安全システム」を導入。骨格情報から車内事故の未然防止と運転士の負担軽減へ",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DbGo0LWZIcTF2TUUweFVRZjcwZnhlRV95Sk1sSGZ3Q0hELVpDUzhLN2tfaGsyMmlsSDlsaWxtbW51NzM0cWhqTmk4NUtDcFhJWU9vamZzNzZNU2gtMXlMZ1lDMU81V3lLT0E?oc=5",
+   "source": "AIsmiley",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T09:21:24.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "フジテレビがドラマ制作のAI活用を加速 中国では俳優もAI化で粗製乱造…日本のドラマ界はどうなる (エンタメNEXT)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT1VCRmpVSE1pQnlEYV9TOUlBSG91R05zbUhCT1ZBRTEzZW1uTVFmczdia3RvLTZzUzVqNHNzQ0pGbVVsR082djBldG9PbnprLWpEWFMxR0FuR3hpSjNpUkRyWGl5Qi1VY2c2MXBBRmtHYUx4bVVzeFl0YnctdHc0N3VTU0E5S3lTVlprckRR?oc=5",
+   "source": "Yahoo!ニュース",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T09:20:42.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "美団が1.6兆パラメータのAIを商用可で公開 自社測定でClaude-Opus-5に0.7点差の指標",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SemlRQ2pvekVhUTV0aE5xZjYySHROS2ZoSXhSSk9GbWRuWnVQOVVpdTZzRGlrd1kxT21QOFBjVnhsVGR4cGRLOHN1MVB6QkU0THkw?oc=5",
+   "source": "ビジネス+IT",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T09:16:55.000Z",
+   "cats": [
+    "new",
+    "biz"
+   ]
+  },
+  {
+   "title": "【AI時代の教育】読書感想文を生成AIで書いてはいけないのか",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50MnQ2QnhfX0tEUnFJZVhTb252SEZWREN5d2pOY0czbXNIdEtZODV1VV84Wkttb2tMcEYzbXYwTkExWXo1NXZtZWhNZHJjX3pPcDdYLWEyYXBWMnhWdmtOSEhmU2xHQQ?oc=5",
+   "source": "リセマム",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T09:15:03.000Z",
+   "cats": []
+  },
+  {
+   "title": "伊藤忠テクノソリューションズ、PTCジャパンらが解説。ChatGPTを入れても現場は変わらない？生成AIを成果につなげる5講演「すぐマネできる！事例紹介セミナー」第3弾＜12/9・10・参加無料＞",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56THJIb19HUmZQNzhjVWdCZ1BIQkoyN3FlQWpJSHF3QTU5WURMU0FPZk9NYndQczF3VmtPRHNHUERNLXp6Q3pSRGZOSm1aWW9acEJ5YTZUVEd1ZFJfYVNrelNBN0swQS11UVE?oc=5",
+   "source": "PR TIMES",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T09:10:02.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "フジテレビ、生成AIを用いたドラマ制作実験場を設置。今期「救命病棟24時」制作にも活用",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VbGRGblZfbkFmV3lXUUliM2phcVpNRkdaYUtrbzJCY0x5bHZBbW1aQnlLaUNDeE9RUExlWi03ZUFoY21rUTZvWGN4UUlhZldxLVAyd1lsSkJvMkk2Q2t4NmFkUWk2QQ?oc=5",
+   "source": "AIsmiley",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T09:06:20.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "検索履歴から意外な真面目さが発覚？現代の中高生ギャルたちのChatGPTの使い方に驚くも、無邪気な受け答えにマツコ「素晴らしい」と熱視線",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05MWgtRV9HSUQ2SnF5TS1tRDhwYVBaWUNLTXVqTkZfcm9ySVllZ0VpVkJWZTY5Wjl2WkVIWmZUcmhFbEZ5aUJuR2RTRlFQNTUzNkVIaGozTFRoQ0g0SF9WM1hYdnk?oc=5",
+   "source": "entax（エンタックス）",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T09:00:00.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "Closing the AI guidance gap in education",
+   "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "source": "OpenAI News",
+   "lang": "en",
+   "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+   "date": "2026-11-10T09:00:00.000Z",
+   "cats": [
+    "biz"
+   ]
+  },
+  {
+   "title": "【接客は人かAIか】「人手が一人分浮く」「3秒で会計」飲食現場でAI導入が拡大！パン屋や回転寿司で効率化が進む一方『思いやりはAIにはない』専門家が語る“人間が集中すべき仕事”とは",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03NjB4VHpRbDNha3liblNtcGcwak55clJVeF9mNWVyY214LU5JS2Vqb3FjQW43M1V2RzJ2UVBwLXhsR0t0amM0UGt6a3FhUlhjZzFwYWZYZw?oc=5",
+   "source": "UHB 北海道文化放送",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T08:44:03.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "メガネ感覚で空間コンピューティング！ Android XRとGeminiを搭載した「XREAL AURA」が登場。95g未満のの軽さに注目！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHbjlDWFA0VG05aUpLZ1JnaEJxcWd0ekNnY3pGSmxudnR2NjhkMnFKYU9INTNBYkFZZlJkZ3VLbVRGLTRfNDR1cmhMOXpqdi1BM0FmYkIwMDFHdGtYLTF1Z0l2ck93VDFwcUNPMVJ2YlBjaElZUXVTRFc2WQ?oc=5",
+   "source": "ニコニコニュース",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T08:36:22.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "DeepMind、Gemini Robotics 2.5を発表 ロボットの安全性を検証するオープンベンチマーク「ASIMOV-Jailbreak」も公開",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2Q1VW1Qdmd3TmhLMGpLTzRtX09UdWFTQWhFN3NUaXdoYzFzLWVUSlltem90RWh1RnAxNWVFNG4wckRodXdRcEU1MVJFOXRvcUhfaG9WcXU5UWZWWjhVejJPU1ZTRnNTd1AyNXpqek9KRXowY085dVN1cEtIc0N0LVh0dmRDckx1LVpSQ3dqQUtvNjRkemhBbDJ3?oc=5",
+   "source": "Mezha.net",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T08:28:00.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Anthropic、新フラッグシップモデル「Claude Fable 5.2」「Mythos 5.2」発表 フェルマーの最終定理も30時間で形式化",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54TkJqd04wSU1qVUVQVU94Q01fYTdPTlFtZ0txYWI5OV81bEl3a0RuQklZTWhjazlkejZwcGZRLVRnWVRUMG9pa2hwc0I0ZTFzQ19kM3YyUnhFejFNZlhxNdIBZkFVX3lxTFBiNlloUDhsQ1VHYUdQYk5xcldBYnhRandOUVUzZmZSQnZnbVFjNER0eDJPUW1NNi1NZm1XUncxX1JJOU90clUwMTBCRXpxZzRESzhyZEl1VFA4WEFlV1A5cnZRVFJMZw?oc=5",
+   "source": "リアルサウンド",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T08:25:40.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Gemini APIの”お試し価格”終了、2027年1月から入力・出力ともに倍額に",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4zWUlkaFZCdmNDVGdFME5PT2pkV0RjY1NDb2FfSG5RdmlwZzlFc0FEWUhaV2lkby1KeVdqVExRM1g4QQ?oc=5",
+   "source": "shiritomo",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T08:19:17.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "ChatGPTのシェア1カ月で74%→35%に急落、日本でGeminiが初めて逆転",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Qc1FGSEVSVUk2TndTWlNzWVd1UmVudWZaVS1MRF9IMGVEYmpZWmFYSVZudE50U3FDY0t1bTNHNXRfUQ?oc=5",
+   "source": "shiritomo",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T08:19:08.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "12/2（水）FD研修会：生成AI時代の授業デザインを考える －学習評価・課題設計・利用方針の実践的な工夫－",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sQks3N2YzRXVnc2JrM1ZkdHVHcTBNWjBtcHFNRE9GelRmYl9WemlRUzRUMDJHWkcxRVpILVoyQ1IxREJJWnR6RXdKMGxUVDkyN2tpUS10ZmtIakZSdlFv?oc=5",
+   "source": "www.ryukoku.ac.jp",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T08:03:14.000Z",
+   "cats": []
+  },
+  {
+   "title": "生成ＡＩ 半数が利活用、山梨信金が取引先の中小調査【経済／山梨】",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02UUl3akhyYjJscGVGazg5b3FGcjNFNnBkbmxUQzFBNW5kdVZYbzRjSUVhVG13VU8zZElhTlhNSTJCNzA2ZDMwaEhxc09IaUFpOHNhT1BtNXlrUXBaXzBlUEdjejg?oc=5",
+   "source": "sannichi.co.jp",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T08:00:00.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "ＴＳＳプロダクションとリプラスアジアが業務提携協定を締結",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kLWJzR25fTmUwS1lHa3hQYlZpUUZqYU9mVXJjU3ZFU2JKcm5fdldtanVmX0dxXzFjRmNqRWNKRHE1M3V2eFkzc25Za3NrTmc?oc=5",
+   "source": "アットプレス",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T08:00:00.000Z",
+   "cats": [
+    "biz",
+    "howto"
+   ]
+  },
+  {
+   "title": "Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yY1JzQ044OTlUam9aZXpwUFM0QThDY0VneHBHazhzS2haTjNfRFkzMWFMdnJQbW9hblRNMGlmejhXVmRqNmJLY1NPN1BBZjNkZjhRSXR4QnE4UllkX25sVmFR?oc=5",
+   "source": "GIGAZINE",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T07:55:00.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Fable 5.2がClaude Proで11月16日まで無料、その後はクレジット課金",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd2RudHBtdVZ6S2dpMkxSQ2NrdDFqeWhwSHRjclNORnVXNE91ZUk0bWdNem5PZFB1Q3BRZF9UOW12eFNDUV9mTHhfYTh6V3J6VTJVcTJyRkNKNDVZSmgzQjBfTjZrVTZsNXFEckM1VlJNVThTVVlMdlRvNGlKQ1NYYm80R1h1LVdDNHVsZzVzTQ?oc=5",
+   "source": "Pasquale Pillitteri",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T07:53:27.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "ケンタッキー、一部メニュー画像に生成AI 実験販売の商品など SNSは「違和感」の声も（画像）（1/2枚目）",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PdTlheE5SRGYxSlppcHNFOVRneTdZWnlLMjJ0S2g4OHZYdFJDWjNzUlhBM2sydll4aEZJQ2RvSWlIU1ZlYXdSWWZfdXo2bjh0cGU0WU9GQ1pqZ0RYYkF6U2VKaERXLVVURmNWN2xJLTU2Ym40d1o2QnZPbFRoQQ?oc=5",
+   "source": "ITmedia",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T07:51:21.000Z",
+   "cats": []
+  },
+  {
+   "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
+   "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
+   "source": "ITmedia AI+",
+   "lang": "ja",
+   "summary": "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
+   "date": "2026-11-10T07:23:08.000Z",
+   "cats": [
+    "biz"
+   ]
+  },
+  {
+   "title": "株式会社ブーツ、AI・人工知能EXPOに出展。「セマンティックレイヤー」「オントロジー」の構築支援サービスを紹介",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55QXM3b1JsOVA2MVl2bXhfVG91cktOclRXTG5kUi02Z3FaQXcxN1plOTdCY0ItX0MwOThUU0dBT1JpSFdwTjltVHVoZ1F6MTdZMFU3LURpZ1VKUDRuVmtWdThycjh3YkhPNXc?oc=5",
+   "source": "PR TIMES",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T07:22:00.000Z",
+   "cats": []
+  },
+  {
+   "title": "ケンタッキー、一部メニュー画像に生成AI 実験販売の商品など SNSは「違和感」の声も (ITmedia NEWS)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbEg5Y1NfNGpRU1k4eEc1b3ZLbWNlZkFFZUR4TURXRTRsbW5YX3liV2piNGFvYjRmUzA5Sm1QaHdrVDlPcXJKdEpUV25icm5UZzhpMVpPNXlvck8xd01mLWVodzhTQVdfb3VtNTBjT3NJQ0dKU3I3YUM1U3J2cnczTUF3ZV8xQUhyX0dZc1hR?oc=5",
+   "source": "Yahoo!ニュース",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T07:20:09.000Z",
+   "cats": []
+  },
+  {
+   "title": "人工知能(AI)が貸出承認可否を判断するのに止まらず、顧客別延滞危険まで算出する技術が登場した。 生成 AIの回答を実際の延滞確率に転換し、金融会社の信用評価と貸出審査に活用する方式だ。AI金融企業の..",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WUEZDamY1UFI3RFl2Q2h6b2NjUmJCYUR2RW9SR0FyZE5uaS1famlGQkRuMWEwYjlXYmRyV1k2WkN1RldZcjJlWE8zVlFWOFNNWlE?oc=5",
+   "source": "매일경제",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T07:18:53.000Z",
+   "cats": [
+    "biz",
+    "howto"
+   ]
+  },
+  {
+   "title": "ケンタッキー、一部メニュー画像に生成AI 実験販売の商品など SNSは「違和感」の声も（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kU1JXMEFaaGlxdTV3Q2wtMGdiM3JnWlpRR1BlTXU2X1ZwYUJiQ0h0X3FfU2c4cTBzOXdiZTlRcm51ZG5sak1NeXVuam9Qc1ZFZkc0VUlIVDNxWnJWZmwzRFVtaWMyMlRPWEE?oc=5",
+   "source": "ITmedia",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T07:13:36.000Z",
+   "cats": []
+  },
+  {
+   "title": "【遠隔勤務の管理を一画面に】燕市のつばさ税理士法人、AI活用で最優秀賞",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBxYXF4T2lNSlNfcTJmeHN6dDhvbUg5WmNmVExWZFMwTnd2M0pwWmxCaER0dms4T3NWMDd0OE9LMHRWRmww?oc=5",
+   "source": "にいがた経済新聞",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T07:06:36.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "AIを全社導入すると何が課題に？ CTC、セキュリティ・利用管理・データ基盤を一括支援",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4OXI1b3JvV05YblFhR09YMnFlbFcyZkhEZHFMeURLTDBlYlZjNk1wZERBS3l5RG54d0JTdV93QUxtLW1EbmJ3UHh5bTNOM0Q0XzJjLVFoa0NFdU1SaHlz?oc=5",
+   "source": "電波タイムズ",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T07:06:30.000Z",
+   "cats": []
+  },
+  {
+   "title": "安保3文書 自衛官の定員削減へ 非核三原則など論点 AI活用も",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wTXBRdjFYdU5xd3R3V19sdVU0MkhMeC1DcnB4eERBX1habk5sdVNtRWk3NEE3bmJQa1R6ZU9fRll5REFwVmY0SldSSXJDZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "lang": "ja",
+   "summary": "",
+   "date": "2026-11-10T07:04:00.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
+   "title": "Otter AI can now follow conversations across 30+ languages",
+   "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+   "source": "TechCrunch AI",
+   "lang": "en",
+   "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+   "date": "2026-11-10T07:00:00.000Z",
+   "cats": []
+  },
+  {
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "link": "https://openai.com/index/ai-effect-on-freelance-work",
+   "source": "OpenAI News",
+   "lang": "en",
+   "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+   "date": "2026-11-10T07:00:00.000Z",
+   "cats": []
+  },
+  {
+   "title": "「Fable 5.2」の用途は？ Claudeモデルの選び方、Anthropicが基本を解説",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/",
+   "source": "ITmedia AI+",
+   "lang": "ja",
+   "summary": "米Anthropicは「Claude」のモデルの選び方を公式ブログで解説した。",
+   "date": "2026-11-10T04:26:38.000Z",
+   "cats": [
+    "new",
+    "howto"
+   ]
+  },
+  {
+   "title": "dotsが「複数台のローカルコンピュータ接続」に対応 各マシンでタスクを分担可能に",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003058/",
+   "source": "ITmedia AI+",
+   "lang": "ja",
+   "summary": "OpenAIは常時稼働型エージェントツール「dots」が複数台のローカルコンピュータに接続できるようになったと発表した。",
+   "date": "2026-11-10T03:47:11.000Z",
+   "cats": [
+    "new"
+   ]
+  },
+  {
+   "title": "Instagram、年齢を偽った10代もAIで検出 日本でも保護機能の適用を開始",
+   "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003056/",
+   "source": "ITmedia AI+",
+   "lang": "ja",
+   "summary": "Metaは、Instagramで成人として年齢登録していても、AIが10代と推定したユーザーには「ティーンアカウント」の保護機能を強制適用する取り組みを日本を含む世界各国に拡大すると発表した。日本では同月10日より導入する。年齢詐称による制限回避を防ぐ狙いで、今後Threadsなどにも順次展開していく予定だ。",
+   "date": "2026-11-10T03:27:51.000Z",
+   "cats": [
+    "new"
+   ]
+  },
   {
    "title": "Googleが約5時間で学べる医療職向けAI講座を開始 PT・OT・STも受講可",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxRHpmWHh6ZDdRSVhVZ1NRbkZnZXNlb1N3MGEyS1JxZlg3Sy0wMjc4dFdTN0I4MVB1TmZlZFo2M1I3WXJYeV95VTNRVERtak9weW04TTluNWZDNlpvRWtoeksydw?oc=5",
@@ -75,6 +1194,28 @@
    ]
   },
   {
+   "title": "なぜ、三井化学は1.8兆円で「半導体材料メーカー」を買ったのか JSR買収の狙い、市村社長が語る",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/10/news029.html",
+   "source": "ITmedia AI+",
+   "lang": "ja",
+   "summary": "三井化学が、半導体材料大手JSRを約1.8兆円で買収する。市村社長は「単なるM＆Aではない」と説明する。巨額を投じた買収の狙いは。",
+   "date": "2026-11-10T03:00:00.000Z",
+   "cats": [
+    "biz"
+   ]
+  },
+  {
+   "title": "「探す」という呪縛から設計者が解放される日",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/10/news008.html",
+   "source": "ITmedia AI+",
+   "lang": "ja",
+   "summary": "設計を始める前の“付帯業務”の負担が軽減されることを願います。",
+   "date": "2026-11-10T03:00:00.000Z",
+   "cats": [
+    "howto"
+   ]
+  },
+  {
    "title": "週12億人のChatGPT、AWSの請求で法人購入が可能に AWS契約の消化先にも入る衝撃（ビジネス＋IT）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84S3M0QlNGb3FBYjVRdmdYV0FpYUVDajAySW9fZi0yV1VJdkdaUjdPcFA2Z3FBVDJHbkRwcTJKOFd6ZV9HdXFnOHpfSGhWZ3JZMHVrSnREUFNJX2lBS01ZWGRxQldXMXhscHJpdkV5WS1oSWF6U0tYWVpVMmpaaVU?oc=5",
    "source": "Yahoo!ニュース",
@@ -134,28 +1275,6 @@
    "lang": "ja",
    "summary": "",
    "date": "2026-11-10T02:46:20.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "日本リスキリングコンソーシアム「月間アクセスTOP10」第2位獲得記念！「Copilot × Microsoft 365活用講座」第1回無料招待枠を1,500名に拡大",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OQVRGOEJIT2daQ3BEc01BZFYwU29hWTZ3d1FpZXRwY1ZSR0tpaGh6ZzhDQVgxa2hhWWdmZWt5cVJtOUVBQ08ta1FQVEg2V092Z2ZqVm5jZEp6TFpnZW5rbE9OdEJ5TGhUdGJnWXp6YXlvREx3TktVdQ?oc=5",
-   "source": "RBB TODAY",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-10T02:46:20.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "【11月27日(金)17:30～・無料オンライン】2027年の営業DXを加速！生成AIでターゲット抽出から商談後フォローまで効率化する実践手法を解説！！",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCUDFha3JTUjdSYnFhNU1EczhRZ1duV2F0TmNuUjFSM0VFemI4SURVNGZQYzJJclRUQVhpaThpenBBRUJaVnJyUWdzZTlnSVN0NVdlWGRLcHhNVWNrd1MyanNHUzVESEhfZE9N?oc=5",
-   "source": "時事ドットコム",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-10T02:46:00.000Z",
    "cats": [
     "howto"
    ]
@@ -263,17 +1382,6 @@
    "lang": "ja",
    "summary": "",
    "date": "2026-11-10T02:20:01.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "neoAI、AIエージェントによるCADアプリ操作を実証 ― 製造業の図面・CAD業務へのAI実装を加速",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZeHV4UHRkUGlnVy1yRkJUdi1PNXdIUU13bmZ0R05Cckg2UzB3ZGJubnh6RGZ2Tk9CRDJiSVZ6SWpTSDJfWUx2c2hXRjl2U28zN0ZwLWJ4NXIzWW1NNnU1QUd4Q21FeElPc0E?oc=5",
-   "source": "PR TIMES",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-10T02:19:22.000Z",
    "cats": [
     "howto"
    ]
@@ -950,6 +2058,19 @@
    ]
   },
   {
+   "title": "NOTHING will be smarter than Fable 5.2...",
+   "link": "https://www.youtube.com/watch?v=h76wUNmRqxc",
+   "source": "▶ Wes Roth",
+   "lang": "en",
+   "summary": "Anthropic just released Claude Fable 5.2 and Claude Mythos 5.2, and while it is easily the most capable public model in the world across long-horizon coding, ro…",
+   "date": "2026-11-10T00:02:58.000Z",
+   "cats": [
+    "new",
+    "video"
+   ],
+   "thumb": "https://i.ytimg.com/vi/h76wUNmRqxc/mqdefault.jpg"
+  },
+  {
    "title": "Claude CodeでAIの記憶を永続的にして、成果物のクオリティをアップさせよう",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xSVZNZ3IzUWdheDFQX29VbVN1Qzh4YmxSS1R6SEI2T2ZhUEFBSHdZczZuUGtOQV83NXVxTV9zOEFDem5jZ3VZOVVXYzJKTnE0VndEb25ORVJxamhHTHlIOEo1T3dyc0px?oc=5",
    "source": "gihyo.jp",
@@ -970,6 +2091,15 @@
    "cats": [
     "new"
    ]
+  },
+  {
+   "title": "Decision Models in Hugging Face",
+   "link": "https://huggingface.co/blog/decision",
+   "source": "Hugging Face Blog",
+   "lang": "en",
+   "summary": "",
+   "date": "2026-11-10T00:00:00.000Z",
+   "cats": []
   },
   {
    "title": "ChatGPTがAI市場シェアを回復、競合のClaudeやGeminiを抑え「81％超」に",
@@ -1129,7 +2259,7 @@
    ]
   },
   {
-   "title": "Anthropic just dropped the best model ever... (Fable 5.2)",
+   "title": "Fable 5.2 is ridiculous",
    "link": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
    "source": "▶ Matthew Berman",
    "lang": "en",
@@ -1142,17 +2272,6 @@
    "thumb": "https://i.ytimg.com/vi/0vNyVMDFdkg/mqdefault.jpg"
   },
   {
-   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-   "source": "The Verge AI",
-   "lang": "en",
-   "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The…",
-   "date": "2026-11-09T19:00:00.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
    "title": "ChatGPT Enterprise now available in AWS Marketplace",
    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
    "source": "OpenAI News",
@@ -1161,6 +2280,17 @@
    "date": "2026-11-09T19:00:00.000Z",
    "cats": [
     "biz"
+   ]
+  },
+  {
+   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+   "source": "The Verge AI",
+   "lang": "en",
+   "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The…",
+   "date": "2026-11-09T19:00:00.000Z",
+   "cats": [
+    "new"
    ]
   },
   {
@@ -2245,17 +3375,6 @@
    ]
   },
   {
-   "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
-   "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
-   "source": "ITmedia AI+",
-   "lang": "ja",
-   "summary": "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
-   "date": "2026-11-09T02:30:10.000Z",
-   "cats": [
-    "biz"
-   ]
-  },
-  {
    "title": "クラウドインフラのシェア、AWSが26％に後退 Google Cloudは16％に上昇 市場全体は過去最大の高成長率へ 2026年第3四半期調査",
    "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003001/",
    "source": "ITmedia AI+",
@@ -3107,1073 +4226,6 @@
    "cats": [
     "new"
    ]
-  },
-  {
-   "title": "MacBook Proのロゴを1クリックで消せるアプリ「Backglow」｜明るさ調整は無料 Claude Codeに合わせて光るPro版は9ドル",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XRWliQi1FWTFVTzR2OEwyOTVRMlVGNVFHX3RvZEViU2xua25YQjd6ekdfNl9CYk5vc09mRUxGM3FPeEZlMnhGamU1RG4?oc=5",
-   "source": "スマートウォッチライフ",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T13:49:37.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "Amazon、これまでにない家庭用ロボットの開発チームを結成",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZTNyWUk2N0hmRHVEZXpQN055OFEzSmdta3RyUE9qQ0o1cW45RkQ5d2MybWtkNk96czh2SGdaYml2cThOOHE3MXIxZmkyaG9EemNESC1oTDdSc3RObldjU2dIU0ZKVnpGaU1IVXhSLTZBejBYaDhFbm9nS1NLX3Ewb1FqR0Zva1U?oc=5",
-   "source": "Unite.AI",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T13:34:03.000Z",
-   "cats": []
-  },
-  {
-   "title": "弁護士に聞く！ 今のタイミングだからこそケアしておきたい「生成AI使用リスク」Q&A【デジタル＆AIギア 完全ガイド】",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZG9jME1rV0E2OVJ2RFZLZUNTbTlJenl5clQyWjNSZWxwTlAyUjRRa0pQTmhuNGwtV2JIYnRUQWRKV201TTZfNkVnM09qeXR4QnBwRElOb1A0QXpfekJocVhtbVNHcXN6Tld3OURRTU5qV3B3cWw1Y2NnSVZkVEU?oc=5",
-   "source": "Yahoo!ニュース",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T13:00:27.000Z",
-   "cats": []
-  },
-  {
-   "title": "TechFlowインテリジェンス：ChatGPTで大規模なアカウント停止が報じられ、Binanceの60億ドルハッキング被害後にCFOが急遽退任",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RWnRZc2Q0RDNKZ2dQNFo2VVNvRE9remppUmVOTFVkMmlXTXAyZVlIR2lnZ0ZtYy02OUhEaGdaOUktcDljNnJCeEVnczNmZVBGZm96bWtTc2taVlg3?oc=5",
-   "source": "深潮TechFlow",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T12:39:03.000Z",
-   "cats": [
-    "biz"
-   ]
-  },
-  {
-   "title": "パイネットワークが生成AI強化、トークンは最安値付近",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtV3Z2QXlwVGE4STFZdlcxVmlrcXFDbGRINVJnRXpMTzBPN2FsZWU2blBwbVdNbHhYQWx4QW9ZdUZNaklDTHR5LVRaMFJweU5iZUdrbU5Jci0yRHFrWkRxdzRxYzVIVGRIdUdsSDd3SFk?oc=5",
-   "source": "BeInCrypto",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T12:30:44.000Z",
-   "cats": []
-  },
-  {
-   "title": "大阪産業局・大阪府が主催する生成AIセミナーでAIリスキル代表の山原慎也が講師登壇｜満足度94.4%を達成",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FWnhwNWE3Zzg2YTVnZDZ6RVlRYWZBcTJvSk1FTEwxQXh3VWxnSlNBTUhnX2RiN3BsWXRZYlBudEhuSGNjVDZqYkdWWUZ3dFZIbTZSakpGc3kwUGxGZGxLTlZCZDJWMUwxbkpNZWZUbkl6THJl?oc=5",
-   "source": "Excite エキサイト",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T12:10:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "手指の修正を楽にするプロンプト入力支援ツール｜Banana Hand Fix｜てんねん｜AIイラストクリエイター",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80Rlh1M0hGZUl2MHVWM1BzQkdsV1g1b2pwNm5ldjN3dnFKWTJkSXFwNmJMY09USzN3Yll1WUEwdHM3MllaS2JaUEJGY3Bpc2cweWJr?oc=5",
-   "source": "note",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T11:10:45.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "シカゴの教授がClaudeによる1年分の講義ノート削除を発表",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmFFWk5STmpwT09lQjdTRE5sU0NGcjU2RzdiTTFlRWFiaEVqS1hoX3BQYlMzOV93c3l6aTFVOEtaQ2VpX0R6TVZHREZ1a25GN0g2RzZTaHBBSkhJV18tQ3Nua1RwYTJCS1hvd19FQmNrMF9BRjZnalpEckhPZjY0Z3lzU24yVzQ?oc=5",
-   "source": "Pasquale Pillitteri",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T10:42:02.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "Claude Codeの設定ファイルからパスワードとAPIキーが流出、GitHubで1,122件",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNGZCWTdvNVdaMjlBZFpINUFwME1vVVdkQ2otc2tFZkV0OV9qWTRRaHJnN1RJdzRJRFZTQUllc21xdThEWC1jVFFzSFJpb2RrbWM5UERXUnNienhjWUZDbVJMOE1sM05nZnBrNTMzU0Vkd25YbHRNdmdVbnNWUEQ2U0Itc1VpMmFGVGhDaDJLcHJwbGp1cy0xVzAzNXI?oc=5",
-   "source": "Pasquale Pillitteri",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T10:40:08.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "ChatGPT Pro 500はPlusの50倍、OpenAIが各Proの倍率を発表",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbjJlUjA2MGg2LThNaDNwRVJzYnhtZXV2Ti1Cck5aN3U0RkltTjRnYXZfVEhrLXJLR21hNkZtRkZEYUV0Vl8xbV8wMXVfb2ZjU0hUZ2FLVmZKZjI5WkJGaklkNTQtcTVIYkh5N3lzak04YjFNbHpQVnZuOUZ4RWNqUl9UUjE?oc=5",
-   "source": "Pasquale Pillitteri",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T10:40:08.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "ClaudeとBlenderで作る2.5Dアニメ動画、手順ガイド",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV2dxQWp0Z0l0aXZEeGNDTDVrUzd1dW5uZElCdEZsQzRtMTlWTU9IWVp4bmtWX2dHTHgxZlpoRmo4Zm9tVmJuS0EwZlR5RkxTSW1ReUIwSndNLWhQMXhyeDVPbEh2VmdkRW0zMzBYSmJHcGdLUW9SSDFtQkR1MmR0TEFEMDQ5bm8?oc=5",
-   "source": "Pasquale Pillitteri",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T10:40:07.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "AirPods 3のヘッドトラッキングがLinuxに対応、MousePodsが公開",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTXkxNXhRaFB6Vi1EZFRBTHN5aHJTeG1mOGotUWtXbnNSWjdzaGxDSlF5QUFVaUV4R09ieEZtTTFWU05zZVVVaTBITXZwMDlfd01BdHV3cUNwWkRJN2hneV9IVXZIaHdQRkR1OVBtNDhEQmJiNVZlemd0amhaSmMzTVVBdzV0SzdkV0lzNFNEZw?oc=5",
-   "source": "Pasquale Pillitteri",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T10:40:07.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "日本AI開発センター、企業の現場に入り込みAI活用を構想から実装・定着まで担う「現場FDE支援」を開始",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oZHFxbl9TTG5kX1FsdzlOWkhiNXJWLWhxM0UtYkJBUFhkcGhJblZTcjBCU0d6U2pzZjR2Ni1mSEF3SHVpQWxFUDVDOHNFMUJWWkE?oc=5",
-   "source": "山陽新聞",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T10:37:53.000Z",
-   "cats": [
-    "biz",
-    "howto"
-   ]
-  },
-  {
-   "title": "Claude dreaming、Anthropicがエージェントの記憶テストを公開",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWxvM185emJXYzR3SFJST2pIMXRKd0tBS0xYZmIwRWl6bzhxY2FhQi11MlUwdjVkUDJtclVyVGpwS1owemVKUzRhMmkyb1VkNmRQUjFkZzc1QXU4enlDZjJ0b25mN2JhSTFwaElsVE9MWWRLNy16NGR4NFlmeDN3dERFZnVNMjdiRUpwQ05meWlTQQ?oc=5",
-   "source": "Pasquale Pillitteri",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T10:18:02.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "【開催レポート】議員秘書と政治を学ぶ学生向けに、Claude Code勉強会を開催",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiUGYwbDFNX2REajRSNTZIc1RRdW5EZUpyU0JhamhuZkh3SnVjZjNtVGlKZ3lGZ2tfbFdZdHg5RDN5V0wydGlBRzZvU2dmNS1RREZZdUhNRDFJMzJRRVJydENSYzVYQ2JzR25QR2JrYktTQUda?oc=5",
-   "source": "Excite エキサイト",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T10:10:00.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "‍‍‍ChatGPT AI彼女 違い {MYx01}",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVmJ0OWl6VXIxcXotVFVUbVZxckg2S1VXSUtGUGthVnBJQm5mUEU2Um9YdnFKWnBTRGFSZnFody1oaHFzM3NGR0NNWFNjRnpqc3U3T2M3Um9QM1FqZEMyWWE3NTNRWWNndnY3ZTdwR3dWdC1FNHY0dERYUUk2M1NrMFRFZkVyZWFlNEJxVjBKeWN0SDdpX2k2WUxkMlAwQi0xVDNuSFg2QmFETms4WUo3eExuWlEtUVV2VnMtcEh4dW9sQ2ZKWTRyMEl3cFdLN2NNU0k4cUVISmpfRlFCVHB2bWx6M0tJQ21oZE5xblk4RHBVaGRreDVxMkVGalg?oc=5",
-   "source": "TeluguOne",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T09:53:24.000Z",
-   "cats": []
-  },
-  {
-   "title": "‍‍‍生成AIエロ画像・エロ動画作成ツール10選｜初心者向けの無料 {MYx01}",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSWxZeFRvaEROb25qeU1ia0xtMC1obUZiNUUyeGgxNFRSbVA0bC1BSXpLWF9HTmlyRzB6U045RERYTkJ2RFNPQ2JOcFAwbWk1dUNGbU9WMWlGQy03XzRjU1Z1MXNlRU8wLUxrTmNvdHExZWptV19BdU5XOWZXR0FQd0Vjb3JFR3MyLWVYS25ZbGIwOGtiQmNHaXE5Z1d5UDJfUzJ3QzJwVU5rOWZ1T1l1RGJ6aUlQZEtVTDB6NEU1V0IxandNZ3hGY3dZOGt5Smw0RHA1WTJNelVmU0NoVmpEMXh0Z21aVXBiLU12QndqZjJ5ZURUMHNmZFI0UUM?oc=5",
-   "source": "TeluguOne",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T09:43:10.000Z",
-   "cats": []
-  },
-  {
-   "title": "‍‍‍NSFW対応の画像生成AI｜アニメキャラ生成マニア {MYx01}",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORjhwRGJETERmUWRhRkFRUzFBdDFHMlVyUS1EYU1vcUFFRjF5U0RSNm1uQWZSaWszZzQ2eTJxNlNYVEJ5a3FBbjJSZGQ2S2tUOEZkVmZQSHRMT3JsUTF3RWNTTUtJR2c1R0Z0RXFKYXJ4d2xqLWJaRXZRMXpHWXdkSmhXYTNYNmM3bkV4VC1GV29Zd1BoVlh6eDBCakxHSkVkdl84aTk4b3pteHhOQzVaLVZTMVRnc3VxUWE4UElqUkRibzNQcGo3anpkMFpHcnhqZ1c2a0dQdHNWZVF4QURFaU0tTmR2bGdHcTZpTm5BUzdXdHl1ejJQc2JaMXk?oc=5",
-   "source": "TeluguOne",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T09:43:09.000Z",
-   "cats": []
-  },
-  {
-   "title": "‍‍‍無料 NSFW AIアニメジェネレーター — エロ動画生成ai {MYx01}",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaVJMWkExQUpkeERwelFVQnZRLURuc0pDTGswVGNtb1p6RVZtdEpDSEFzcUY1bElzZXVkWlVVVFhYcGM0V3BYWFNGZWh4UVpWYXZYYm9NZjB3MVFZU3NEWWI2TnAzR0tOMjRmOUdYQzlMNW1ENnk3dmNsYWZ3Tmw5NVEtSF90Nkd5MWgwSmFDajB0TGlLNTdvb1VoemdYLVY5R0lHX2FzOE1KTzN4NTN3UVBnUHBuWUViTk56RjJVd1BfbW5TNnNfYTZlN1pVb0xkNThHMGRTc0FudnIwWk5Ncm1oSFhJQjRwYmVubjF4eWZoZjMtLVliOFA3Rks?oc=5",
-   "source": "TeluguOne",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T09:43:04.000Z",
-   "cats": []
-  },
-  {
-   "title": "‍‍‍無料で普通の動画を一瞬でアニメ動画にできる動画生成AI {MYx01}",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNckE1WjBsMGMtU2MxOUhoVmhJNURBeXdla3F3VTA2cVg4NXJSa3hxZHdiMmZSRHF5TTNfa1pyV1p0M25LN1FEdE9LdXdwdDVGY3JvcFhrNTJsSFQ0MmEzak5LaHlkRDhaeXFTZUZLaGN2bmtuSFBFbjdRRTR1ZXJ0RThfVnVXeE82Z3pKc2N2M09vUzZMWmVnVnp6WVJSZ3JXbWVGaTg3QjM3cmxwcVFxQjlUVkI0ek5Oa2E4NE10TGhJSl9ROEt3ZExOOFBRaDFtMzNTLXY0eldKN0VDUndla1NhUUt0a04tZ0J1SWxDLURxU1pONExEREs5OEQ?oc=5",
-   "source": "TeluguOne",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T09:43:03.000Z",
-   "cats": []
-  },
-  {
-   "title": "‍‍‍画像 生成 ai {MYx01}",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVmZzUWhKWXltcE1pRUdyQzZmcVNLeVhHdzhsci1ZbGktczdMRlhSbHdvZk5XOF9xOG1WUXlUMHdPcmlXWmdqMmlyZ3dwVGoxc1VGdFEzLVBxTVkzNTNXUXNTRm9GX0FDSW5wNG9tUHZwRDIxcm1KNTA0cThBcHNBS045TUFiS1ptOENxVXZMbEVxRnFFeUJaaGZkekxNX0JMV0ZtTWpSWk81ZFJwYjNsQ2RYVVBVWkF2S3JsVkQtNjV2cHVIV3B0YnktLW0xdmxQQ1Nxek4yLXZBbjVYYTY4cFFmOE1rQnBURWpjbmVVWG8tSVFHdjM0bEduSm4?oc=5",
-   "source": "TeluguOne",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T09:33:47.000Z",
-   "cats": []
-  },
-  {
-   "title": "AI動画からClaudeで本格ボス戦ゲームが即誕生",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMd3ctRU9nT1VXUFN5Q2tyUGFWcVRhVGMxeFhhSVY0dFBaTHg5ci1yQWhWMkpMMVNrQ2hFbUNqaEJmMzhaTi1RbHZNSTY1SXp5Qi1YOWhiVQ?oc=5",
-   "source": "X",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T09:31:45.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "【今週のAIツール・ニュース総まとめ】ChatGPTの画像生成AI「ChatGPT Images 2.6」/Googleの動画生成AI「Gemini Omni 1.2 Flash」など",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4S0lxRm9NM2pnREZMX2kwcl9CbUEwa2c5RWpHTHh0bnJEbkpfejRRZlA1ZE41ZHk2VnJ0ZHMxWUgwdUw1Ukt0UjRDbkhLbDlNZ04tNjZfdDZQYjEyMmZHN29UeElRTkM0NS1iS1ZFQ0RrT2M5eTRya3ln?oc=5",
-   "source": "ライブドアニュース",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T09:05:52.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "AI画像を検出できるブラウザ拡張機能「Pangram AI Detection」を実際に使って本当に検出できるのか試してみた",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81V3U3WHFQdGpqczJOVzEzOFhueEwwelFnc3hJaEZ0VExiWVpfR1BtaWh4ZlYwOFpYRHcwUnRKM2l0SGZGSGRiR0VTQmhseUZyUURrV2tUZ0wyYU5Db3k4cEpPTVdpLVk1di1sbVVXQ0NPdlQ4WTdn?oc=5",
-   "source": "GIGAZINE",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T08:45:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "「ぼくには音が聴こえない」と返すAIが作った曲――Claude Opus 5.5、コスト4割減の実力",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVbGZzYzBRajhkQ1kySERLRno4MWxIRTd3OHNrNFl3M0JmdEN1N21TVjVmd3dlYjF1ZHlqa2JFY3ZFUQ?oc=5",
-   "source": "shiritomo",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T08:32:51.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "ChatGPT Images 2.6 は、子供のクレヨン画をアニメーションGIFに変換する：4つのステップと知っておくべきこと。",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaFVlV0xhTGc1MUhwMF85b2RVR0hWaDhRT3NXRFE0Tlh2RGM1cHAxWU1xT2NVYnVjazVycnhuSFZTaldIU0Y2eVBhTWNjVTlIWnVvOW5ZX1FIYmdsNHlfVmhKd0FUWVFJYmxPU09vWi0yTThCZ2dBVmZyQk01RmJBQkxUVHNLcDVZYjlOMHhyTzl0ZnlHVUQwcmx3ZjFvTkNkVzlDbVI1OG5Qc1JCMlR1RUsxMEczZ2FHTW5sZ01B?oc=5",
-   "source": "Vietnam.vn",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T08:27:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "Claude Codeのコードの9割をAIが自ら執筆、Anthropicが6層の審査体制を公開",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLMWhwdWh2TTdHbWpGZXRJWEx5OXZPRnNfNlMtVWhhQk5pY3pvY0ZMRW44TnVDcnRVQ0l1WnBHZDBtTWRvTWhNWk52R2lFLXo0UFFUWFRFMnJlY0pjQktoRzN3RGItR1gtdlNEUHgtRGFuWGZt?oc=5",
-   "source": "BigGo ファイナンス",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T07:35:00.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "AIによって、「答えは知っているが批判的思考力に欠ける」世代の学生が育成されてはならない。",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYnRLY1VCSXFFSXZ3U0JmT3Ita0tHLTRyLXhBRjRMaUlkN2ZGcXpxTFFjS21LcWJKMWZMN2h2UkxRZ2hYLW5ZTUxBZDdMbnd6SjdMdW8tVWJHeXFnY25VWVhrOHF5MDJpOEo4R1gwczdXZE93ZEgzR3dyV3R0OVBoY0hGdnVCQTlDSk1XMy1yWXlzWFhKRzFVN09oS1E?oc=5",
-   "source": "Vietnam.vn",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T07:29:54.000Z",
-   "cats": []
-  },
-  {
-   "title": "「ChatGPTかGeminiか」「無料か有料か」AI株式投資のベストセラー個人投資家が指南するAIサービスの選び方 投資家Goさんがプロンプト入力のポイントまで解説！ (マネーポストWEB)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYmpMRzFFamFVUVNMZHBmdHhSY0pxZldmRnBGc2oyemJJYnN6UENNdlZoYkxadUh5bEtHeTU4MTl1V3dHMktwUXBzM09VSC1QYnBMajJpUmdYbFk2SkVXVXhYVVhPQl80Y3BWZENnSXV3TXhaUDYtUGtaaXM1NjRnTGs5WERhZThPc0ozQ0t3?oc=5",
-   "source": "Yahoo!ニュース",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T07:15:00.000Z",
-   "cats": [
-    "new",
-    "biz",
-    "howto"
-   ]
-  },
-  {
-   "title": "AI Hack、Claude Haiku 5.5やGemini 4 Argon等に対応",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hQlo2VW5YV1VJQnpKVkg2R0hWZF92cmRHd1RaV1R0RWUwZ19ZTHUtNmQ4cFE2WkVIaFVzR1dJWi00TFhIMmc?oc=5",
-   "source": "Dellows News",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T06:00:00.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "壊れたMacBookのデータをClaudeが救出とXで話題｜ターゲットディスクモードで読めた？ 2年前に故障したMacの仕組みと条件",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SVVhtcTR1aVNhdFB6YXNPekd4Rnd1LXh2bWhaekxjcHZYWGhvbUZzb080bHZ4Wmt6cHlpQlVuM3ZUNnF4UzJaaWVEUXE?oc=5",
-   "source": "スマートウォッチライフ",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T05:52:29.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "生成AIが選ぶ「弁護士事務所」、1位はベリーベスト法律事務所（言及率47.6%）【2026年10月調査】",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGdk5nR3lMaXhaV3puRkpDWk0zNkZJTnlNalBDZWJQUW05dFllN2IzT2lRWGJ0MnJnYUZIY0JCQ2xPRENiQ3NpZXZpeEx2bDRQ?oc=5",
-   "source": "AERA DIGITAL",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T05:15:53.000Z",
-   "cats": []
-  },
-  {
-   "title": "Tom Lee「AI株の急落は行き過ぎ…連邦準備制度理事会は12月の利上げ見送りの可能性も」",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45M3RleWJMT0hhMnBEcWJRVG8wSEVIdXlITFF0QVhYb0s5RkFMdXRHQzFJTERIWVcybGJXN01UXzM1OTdNM0VxaWlJTGRhYnF4NU1weFVfNjd1NFRZdXZUMEx5NzF3elBidHFYUWszUWRRdE1L?oc=5",
-   "source": "BigGo ファイナンス",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T04:35:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "＜AI・デジタル活用実態＞大学ポータル普及も「情報埋もれる」 学生の約4割が重要連絡見落とす〜JAST調査",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIM0YwZHhNb0d4amFXc3FmVHgwM3FUOG9MSWpKb3pXTjVZaU1lbmxSZkQ5Y0FfQk92MzFlU001Q0Zad05mTk4zWGdVcjBUZHpSeGI0?oc=5",
-   "source": "教育家庭新聞社",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T03:54:35.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "AIガバナンス協会とトラスト＆セーフティ協会、「AI生成コンテンツの安全性研究会」報告シンポジウムを12月11日に開催",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvOHFJNmVJTEdOM3VzdFRlcTQwMF9ESHVobWxZdFRkeXVvWUtnNUZLSElZZHFFd3FuaXJOUy1iLU83dlVRTThyVTUwUnpvcGFTUnBxaVVzSjZ6SmFRXzlCYTdJRnlaUEhicVFFT0VObkh5MXhZ?oc=5",
-   "source": "Excite エキサイト",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T03:40:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "AIゲーム開発系YouTuberが実証！ChatGPTとClaudeで作るマイクラ異世界転生MOD比較",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GYk90UlJZN296R09ObU9MODdMUXZVeE5JbXkxcHZVSDVOdmpUXzJzVWkteGUwVW83R3VtSTRNN2tnZVNQUGJMdWYtamlCSHFuenpTMXlLem9VOHB2bFdZ?oc=5",
-   "source": "ライブドアニュース",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T03:40:00.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "AIエージェントが株を売買する時代へ 20万人が口座開設、取引額16億ドル",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aT1dCMi1CdEtkVnY0RWNKcDg2VkZIUXZ3b28zQW8yZGJzSklBY3V5em0zUnFlUHFDUl94bmw2UkhZNFdLSHVRN1QwRFo0ZUZRMTlCdmJPQTNnbHdWRHR6T1h4aE1YaElr?oc=5",
-   "source": "株式会社エクサウィザーズ",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T03:26:58.000Z",
-   "cats": [
-    "biz"
-   ]
-  },
-  {
-   "title": "プエンテの生成AIアニメ制作「AI Anime Factory」に漫画制作を追加 オリジナルアニメ『花魁転生』第1話を漫画化",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JMTF4UU4yMDdnUjg3LUNwdzZyRFpXbjRwcXhwWnpmaEVHOUxGLS1XelF2RHBmdThtbVpHZWplUC1KakxwaTcybTdOUE1HLW9ENmwwT0lUVXd5OUJLWnNqcC1BSTg1eHg2MkFEeDZvWDBRdw?oc=5",
-   "source": "Infoseek",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T03:15:31.000Z",
-   "cats": []
-  },
-  {
-   "title": "シューティングゲーム『DOOM』の床に描いた数字を読み取る ゲームの仕掛けでAIを動かすオープンソースプロジェクト「Doomformer」公開",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RbFY3YTFoVWlvX2FBZjFwb3lUYlR0TmNqNzRKNklvWmR5X1h3N01ESjBqN1lsWDJWbUJWdFdJTWJLcUpRTmU5SGVpYnVwN1pCME4wQ0pRREtfZ3ZNMVQxag?oc=5",
-   "source": "Ledge.ai",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T03:02:14.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "アンソロピック、「1人バイオテック」を買収──Claudeで11研究所との業務を調整",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41MjRtS1lNWGgyendKRTQzOVBfRjQtczFqbklmZC03TUVreEpacGhqYVJzOFhiQmxJZXhtVWpUVUR3d1k0NGtmYkh4SG1aOTBUR2tZY1ZYeWVmdw?oc=5",
-   "source": "Forbes JAPAN",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T03:00:00.000Z",
-   "cats": [
-    "new",
-    "biz",
-    "howto"
-   ]
-  },
-  {
-   "title": "AnthropicがClaudeで個人財務管理機能をテスト",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXNyYTNWVlhtNVdZMDBhQUZ5djFiNElobTFLbi1Oc3pWckhBTmJZZnBfTC1hT25nQzVBV0FwWU1vYWdLUmxIaXdyX09CU2JpNEd6NklWSmRmdkdWRWhuZHZzSDRBNXRNWWRaLXZwdGpfdVV4cjRvY05wc2ZYX3hfcnFySjl1OGZ6c0xKLXJOLUJ2YTNiMS1laXUxZEpuVVc4Z1c1dXV1VU1VaFlJdVViZVl3?oc=5",
-   "source": "Laodong.vn",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T02:56:20.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "GoogleがGemini 4 Argon採用の脆弱性修正AIエージェント「CodeMender」を強化（ビジネス＋IT）",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWdHS29CcG5hWDIzOVlDaWxzMEE5YjdxMnlhWFhYQVRRQUc2MDhvNjhLeDZyRENwb0w4Q1lzUmp0N041XzJ1bUxvNHFwb2N2Z0FlWURTejN4N1F3eHZneUQ1dXVMSVJSM2lQa3M3R0FvM3R4NU1vT093TlhzZjNILXFvX2VCcTZ5?oc=5",
-   "source": "Yahoo!ニュース",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T02:50:06.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "プエンテの生成AI制作サービスに漫画制作が追加 自社アニメの花魁転生を漫画化",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jX3BrSGNtTXB2ZEk2eC1PcnpXMVVXcHl6c1ZaVFZLS1RhR1g1UG1TN0VORnZhYzFNNVloRnlJQW53Z0ZIZTBr?oc=5",
-   "source": "Dellows News",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T02:48:53.000Z",
-   "cats": []
-  },
-  {
-   "title": "Google メッセージ、ホーム画面の新デザインをテスト中。Gemini は右上、検索は画面下部、固定チャットの表示も変更",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWGd3d1hQYVJlQ2JyWTR6MktmYjRmTmpXTkxLZ3V3NWF0MWdXM0ZIdUNkS19uZ0JrUmtQX2s2dy1XeklkMzFmVWc3eWZaSXRVOWxkelNWNlZ0Mlc1NkxiY1hTSHlCLTVTT1RsLTJvNmFORnpSOWpOZ0Q4M2ZHWXNwbDJyX1pYU3FvM0hN?oc=5",
-   "source": "HelenTech",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T02:39:39.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "ChatGPTの「お世辞」撤回劇が示すAI迎合の代償、科学誌が11モデルで平均49％高の追従を確認",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BNFowXzA4VGlySGY4dWVPRldHR0xaNmtMZUZjRVkwZ0xMVEFtVW8zeHI4YVFuSkZPSEdCLTRlYTgzSXhNVzNkclFxS3RjekNncklXS2djTUkzWHc4YTlteU84a2x5b3Q1NjAyZUdPLXV3MFVi?oc=5",
-   "source": "BigGo ファイナンス",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T02:35:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "生成AIによる自動電話「ロボコール」はなぜ嫌われるのか？ 回数の多さだけではない、リアルタイムで受け答えされても「ニュアンスが通じない」（マネーポストWEB）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1udVAyTHE2OE9RNmRkOFNqdzFWeTQwU2dsZGlvVFZRVS1faWZQSWtWUUVJNTE4amhmcWlHVzhEdnNPcTZHQnlhUmRSLVZuVkV6NWY3LXRzb2xQVE9aN1pPNS1rVVFqVjYzQVlFdWRQZFpHcXN5SW8xMUhad21RMlk?oc=5",
-   "source": "Yahoo!ニュース",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T02:16:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "日本の児童ポスターコンクールで「AIが使われた」と中傷相次ぎ…表彰式が中止に",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1gzbzVYMVNXRTUza244QWR0ZVVETEVCblE3TDNYcjVtdGV2bXFuN0d6NkFaNFZGc3gzSWF2OTJzMC1oVUYteHM1UW9UNHp1ckJ6U3VZYVBuVHN0NnFKU1hyY09HNUsxUWpxc29LcmFCaGRmbE1TNzZQdzZxMmpHclN6VdIBfEFVX3lxTE82OWcxZm9NYllNeDRUVUkwZDdGYlZvazFabkVnZ3VfbVBrSXlmakV2MDNrbS1TZnNEelFLQ1dYM1liRlAxTWtWeFhHNVREc0tMTFhFd25vaU1oSF8xbGRzWWhLSFpRckdNYnZMdE45U2VfaEhuWFk3Nk02RDM?oc=5",
-   "source": "朝鮮日報",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T02:10:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "【747人の診断データ・続報】AIの使い方をチームや会社で広げている人は、繰り返し作業のAI化が「自分だけで使う人」の2.7倍。回答者の64%は「自分だけで使っている」と回答 | 株式会社Uravationのプレスリリース",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9taFRyeTdpeTJxdUJGR2h0cjlnYTQ0R1cwVTNKOFltS1JycmZtU2I0aEVKaTdFWFNiUnZzMGM4Z2lmQlpZaEh4elhKM2pwRS1rbTNEVTRYejUxZDRoU29VQnI2QXhETDR2dlE?oc=5",
-   "source": "PR TIMES",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T02:00:01.000Z",
-   "cats": [
-    "new",
-    "howto"
-   ]
-  },
-  {
-   "title": "日本工学院、BytePlusの生成AI「Lumina」をアニメ教育に導入。新学科「グローバルアニメクリエイター科」に向け動画生成AIを授業で活用",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NbVpkZFZOc2ItX1hGRzBINWZsQmMzanZhZy1YUlBGNlRiRk1NM3VrMHZydUI2UXV4b1ZUQ2JKTzl4ZFNNTktNOV9aM1ZyNHhwR1k2eE5fZ3c?oc=5",
-   "source": "Brand New Creativity",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T01:30:03.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "フジテレビ「全ドラマAI導入」に影を落とすハリウッドの「失敗例」AIシーン乱発で視聴率が暴落する",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wODM2TTdiVFpWNjV6TWZudl9BcGhxbk9YanExU3lRWi12WmRWSDM5amRIdG03X1pseVpodlJtYXNybGhfUXlMOC1GWjBIVkJUVzFLNm1qUVJrS3RrWjBMOXNWQl83c1VtTVRxdHB3?oc=5",
-   "source": "au Webポータル",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T01:30:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "難しい経済ニュースで迷うな！ AIに聞くべき3ステップ",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QMEZLcGp6QXk4LWxEbzcxdFlUaWFlQ3hqMExWRVRfUzhpaUJXNU1IdzRfemhhbGdHX196M2g3bjdQX00teWZlY25ETHI2Zw?oc=5",
-   "source": "ZUU online",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T01:00:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "関西DXアワード、自治体部門で福井県が金賞 AI活用、ふくい はぴコインの取り組みに評価",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16QkxMR2xPdlBDQVJaRHAyMDZjRWh3VnIyWkZyYkNDTTBMTTdxWVNmSXJqLTl0eFAyQVJVWk5vVHBBRlNZcl8zLXgxWXY4S3VsY0ZuLTVOS0xHYkxrbkE?oc=5",
-   "source": "福井新聞社",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-08T00:00:00.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "韓国でChatGPT月間利用者1,876万人が初突破…Claudeは15倍急増",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVldPaVpnbkZ3TDNILWpwOUE0NlpCd3lfUlVSVkZKMUNudllxbTZQaG5CRUtsaEtLVHFaSGtMUlpGaWhGMk11Q1ZDM3hwNVV0YlR5Z3pWVGR2S1llS2lGS216a2RqX01QaXF3YkJKbDRoM0Nv?oc=5",
-   "source": "BigGo ファイナンス",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T23:55:00.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "三原市、AI活用度ランキングで全国唯一の満点 福山市も規模別トップに 格付けで上位になった訳は",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82UUZhT0pKNExMTEc0WUd3VmZtWDRhS1B1NUxSaDMxaEVGRFJVUkVWd296ZjJVelN5cVZ3ckJWUW56Zk83cGRGZG9GN0o2c1Rid2ZVUUR6MFBfQQ?oc=5",
-   "source": "中国新聞デジタル",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T23:54:07.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "「AIで私は100倍速くなった」それでも会社が速くならない理由",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZTEp4U2M5NTRMcy1ZVWpqWDRIRDlaZ1QxNHYxUW5BNjQwSGZ3R3AxOU5KOVZjd25GcDVzcWViRHhRWGRVYlFqQnh5clJwdWp4aXlUcXJmNnVSd19WbGdfWW5WQ3c1dw?oc=5",
-   "source": "株式会社エクサウィザーズ",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T23:36:38.000Z",
-   "cats": []
-  },
-  {
-   "title": "桜井政博氏が生成AIに言及「搾取になってはいけない」と懸念も吐露",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1lbFFUS3lGaVMxdnNwQkpYQ2VBcXI4OXFScGhIOVFBbk80aEYtbnZlTXE2UGgxYW1yNjBRVjdxcVZibWVNZ00zcnZB?oc=5",
-   "source": "ゴゴ通信",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T23:33:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "高三錫氏「K-コンテンツとAI、二つの政策ではなく一つの国家戦略に」",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vbWU4U0JSSkdjYkhnX2ZpQW43OVVKMGFkd3Fsc19DWmtVUlJDa1VEclo4a05NRmhiNk95emZNbmhRUEdhaVZ0TVFoelZOeXFhTDlFak9nUkM4My1rTFE?oc=5",
-   "source": "K-EnterTech Hub",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T23:21:06.000Z",
-   "cats": []
-  },
-  {
-   "title": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
-   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
-   "source": "ITmedia AI+",
-   "lang": "ja",
-   "summary": "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。",
-   "date": "2026-11-07T23:00:00.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "ChatGPT利用者が倍増、インドは世界最大市場に──OpenAIが狙う広告と決済の巨大経済圏",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wVGk2ZEtIZmNLdTg4NFNCOFVnVy1xTTk1ZDg0R0xGNDJGcDhJWkZSUm5FSDNqN3NiVjY2M1N2SERRd1ZzYUc2NHR1eEo2XzhTVS03eEJlNHExUQ?oc=5",
-   "source": "Forbes JAPAN",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T23:00:00.000Z",
-   "cats": [
-    "biz"
-   ]
-  },
-  {
-   "title": "[KWレポート] 韓国放送界に押し寄せるAIの波 (中) …3分のアクション場面で2億ウォン削減",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DLVhrcWVBVEpUaWVCTGxRQ0I1c2JHcE12U2RwcVlJbVNURmxjVFlMUTRyeVBOZjV2eDNiSjhlMmR5dzh2NlgxVmJDQURXMzNKU2N3S1Y5R0gzVl9YQzRWX2swNk_SAWpBVV95cUxOVzBEZW04dWJoS1hkT3JmMTQ5eHcybzh2YVZkbXVNb1RPd1c1bFRNNVJQanNXdDkzbDY1MS02b1lzaDk5YnRrRERTaUloU2dmVGRZTHZNN2REVGxLNWhhZTk4dXVpb2hTc0hR?oc=5",
-   "source": "Infoseek",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T22:55:13.000Z",
-   "cats": [
-    "biz"
-   ]
-  },
-  {
-   "title": "自律して動き、仕事を進める「AIエージェント」とは？従来の生成AIとの決定的な違い",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xYVpDc29GeElFSWxVZ0RkWEJLX1hwYzlKeGFkZjRNUzR0eklpSGJucE5ncmd6cGhYMzFlQ3BhdGhqQ1RxMHVPb2tlU3BTTlQzcXliNkx0NkJHOHg3TE1hbmI2b0wwaGVoLWVNVzVEdGNVNXdRazFWLVZB0gF_QVVfeXFMT0lRUlVlS3hLeGR6b0lmUTY3czVRMHlUVnRSekJlU29fa2doMHd1amdqR0xIa1pqQ3hXY1B6NEdYeVhXU3ZNQlRUR29lRjJzaE9oWHpmeGFzZnAwNzZqSUlrVUhVVFR5UTk5Wkk5WnhPZjBtQzZ4ZjlZLTRnaWhOWQ?oc=5",
-   "source": "ｄメニューニュース",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T22:42:32.000Z",
-   "cats": []
-  },
-  {
-   "title": "自律して動き、仕事を進める「AIエージェント」とは?従来の生成AIとの決定的な違い（TBS CROSS DIG with Bloomberg）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzUVFjd0ZjQzYyU0h4ZFB0NGJfdVBLNmNmQ2ZLUUdvMTNxV2htYU9ja2NlWEFrTnkyTXRYNS1Fem9aelEyNnRVMEMzREd2SEdKc3BXMlpZVHcxaERpWE5tSnZKTXhwUmVVbTBXeWJKS25HeTBEQ3RsMktqWkY0T00?oc=5",
-   "source": "Yahoo!ニュース",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T22:30:33.000Z",
-   "cats": []
-  },
-  {
-   "title": "外注なら1億円、実際は30万円――Claude Codeで「なんでもできるやん」と驚かれた町工場の中身",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBnRnFJVDFPMHlCenR5QmlNQzJ5RFlROTVHcEpqc01UNnYxYURyaURlVW1ROUEzVnJEdTlnS0s4NVlzdw?oc=5",
-   "source": "shiritomo",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T22:27:35.000Z",
-   "cats": [
-    "new",
-    "biz"
-   ]
-  },
-  {
-   "title": "「フィジカルAIは今後1～3年で重大なブレークスルーを迎える」人型ロボット大手・宇樹科技の王興興CEOが見据える「ChatGPT時刻」の到来（マネーポストWEB）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fYUt4UGNkRjhNZmZ3VFlZaTJYS1AyS3VxaE9vb0Y0cmtha0JzV0FTellvdHVtRS16UDZpeTNHcnJLeDlwektmd3FpLU5NcXVsM0x5bXNwbm9UdHV3cFdTejF2dWhheWk0cFZ5NGhlVTBod3ZtbkdkN1BTeVRncVU?oc=5",
-   "source": "Yahoo!ニュース",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T22:27:18.000Z",
-   "cats": []
-  },
-  {
-   "title": "コード・ブッダは登場する？ 〜仏教界でのAI活用",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTTnZrbkNrSlE5OEFpR1hxTmlRVGcyWDlweEhpQVpyZzUzd1k3emJvRnVfZVhOYjQ1ZU5KYUxpaFhkUnNXUU5WTjJXMVFnbldzR1A0?oc=5",
-   "source": "村上知也",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T22:21:05.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-   "source": "TechCrunch AI",
-   "lang": "en",
-   "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-   "date": "2026-11-07T22:07:22.000Z",
-   "cats": []
-  },
-  {
-   "title": "全国紙が報道した練馬区の税務AI 滞納整理の成果と課題",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTM3A2V0FneVFDZGVDT3pSTEJ5dUlBTTBEcFpfUXcxWFZoQmxUWWRpdjFmV3RVZldJSzZHcDVqUkR1MVhlUUU0TUxUaThYYnExV2hQOUQyR2tlNWVmQjhIMWc1cVlBX1BuSVpfN0hnMkk?oc=5",
-   "source": "岩瀬たけし",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T21:45:45.000Z",
-   "cats": []
-  },
-  {
-   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-   "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-   "source": "TechCrunch AI",
-   "lang": "en",
-   "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-   "date": "2026-11-07T21:17:08.000Z",
-   "cats": []
-  },
-  {
-   "title": "「ChatGPT Classic」デスクトップアプリ、2027年1月30日で提供終了／Bluetooth SIGが新機能「High Data Throughput」の採択を発表 通信速度が最大7.5Mbpsに：週末の「気になるニュース」一気読み！（3/3 ページ） - ITmedia PC USER",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jU3Z2RFQ3SF9LV28ydEZablF0MjZCS3lmWURvcml5YUpzdERhc1ZrU2JMdmN6eXozakw2amtxYmZUSE0yWWpTTm5KWWlJak9KT2tXSFBrcnZ0NkJZZkdPZndaczZyMzZFUUNn0gFrQVVfeXFMTWNTdnZEVDdIX0tXbzJ0RlpuUXQyNkJLeWZZRG9yaXlhSnN0RGFzVmtTYkx2Y3p5ejNqTDZqa3FiZlRITTJZalNObkpZaUlqT0pPa1dIUGtydnQ2QllmR09md1pzNnIzNkVRQ2c?oc=5",
-   "source": "ITmedia",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T21:00:00.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "神戸電鉄「関東大手私鉄系のAIプラットフォーム」導入 日常業務の効率化図る",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hbzBkOFc4QzNWZ1djWEQwTk1hN0dMNkNLNFdDQ0sxLUw5VGxvZDFYVnd4RzNpLW1JSjhsU0FjRy1NSk5rTl9lNVVzRUN2ckZHWXo2RHdOZGtGMkd6?oc=5",
-   "source": "鉄道プレスネット",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T20:50:18.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "マーベルが「生成AIの不自然さ」をあえて手作りで再現！ 『ヴィジョンクエスト』の奇妙すぎる撮影セット、その裏側を公開［動画あり］",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PSU5RZ3lES2hmaXhZa0g3bXRQdnJRTF9ENVAzRnNGbTJnTzQ3SEVzcm9fUE45MnBxTkRQeHE5Y2pncjFySWh0aEMwbzdXcVk?oc=5",
-   "source": "TRILL",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T20:05:00.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "【人工知能学会前会長・栗原聡インタビュー #2】AI時代の教育術｜生成AIで子どもの思考力が低下する？ AI教育に要注意の年代とは",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MeTNRSFg5NUprZFl0NVQ2STdhNDczMGwwNHZCNmFLLS1GRktpYzFqRVJ1R1FHVy1PTHRPSXNIVXVPSkJuRTZ1dG5LUldCTndk?oc=5",
-   "source": "新潮QUE",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T20:02:48.000Z",
-   "cats": []
-  },
-  {
-   "title": "ChatGPTの中で自分だけの金融エージェントを構築する — OpenAIのStefano Fabbri氏とOliver Steffmann氏｜AI Engineer",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFd0ZWaEtNS0ZDcVcxTE9wRUlDZGNjaU9BVU92UkhOUk1LSVJRUHRkb1VrWmpPV3ZtRW9zNW1ZcjBtTGVIUGJLYVhlckI1Ymx0a0NTVGVuZ29sNE1uV0E?oc=5",
-   "source": "BigGo ファイナンス",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T19:13:24.000Z",
-   "cats": []
-  },
-  {
-   "title": "12 months to the singularity",
-   "link": "https://www.youtube.com/watch?v=lVbQqjAJpkE",
-   "source": "▶ Matthew Berman",
-   "lang": "en",
-   "summary": "Check out IntelliJ IDEA: https://jb.gg/air_ij_2026 Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.com My Links 🔗 👉🏻 X: https://x.com/ma…",
-   "date": "2026-11-07T17:28:06.000Z",
-   "cats": [
-    "new",
-    "video"
-   ],
-   "thumb": "https://i.ytimg.com/vi/lVbQqjAJpkE/mqdefault.jpg"
-  },
-  {
-   "title": "桜井政博氏、生成AIはアイデアの壁打ちにも使わず。一方で使わない姿勢を貫くことには危機感も",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ia3B6emh2NGlkZWhIX0Q0N1RlczlWZDlPaE1JN3BFbE9FVVk1eDV3dlhZd3lFZnRWRGtHWUFPVmpQa0dNUjZBcFJB?oc=5",
-   "source": "ゲーム情報！ゲームのはなし",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T16:41:46.000Z",
-   "cats": []
-  },
-  {
-   "title": "OpenAI's Astra Just Opened The Black Box Of AI",
-   "link": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
-   "source": "▶ Two Minute Papers",
-   "lang": "en",
-   "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The Weight Space Programming work is available here: https://rikiyat.gith…",
-   "date": "2026-11-07T16:24:47.000Z",
-   "cats": [
-    "video"
-   ],
-   "thumb": "https://i.ytimg.com/vi/GJ6PMUm5oTA/mqdefault.jpg"
-  },
-  {
-   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-   "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-   "source": "The Verge AI",
-   "lang": "en",
-   "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken…",
-   "date": "2026-11-07T15:50:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "The US let Nvidia sell chips to an empty office in China",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-   "source": "The Verge AI",
-   "lang": "en",
-   "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle…",
-   "date": "2026-11-07T15:43:45.000Z",
-   "cats": [
-    "biz"
-   ]
-  },
-  {
-   "title": "Google社員がGemini 4でゼルダの伝説 時のオカリナをiPhone Duoで動かすデモ公開",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tYVJFSEFYdjQ1a3hRdDZMV0lKMGloam5wcmIyZ0twVV9YUTExRUpZLVc0R2JjSHF6dXRlSnMzX0RsazFsanNwa0FVMDV5RnQ4dG1XVklZSQ?oc=5",
-   "source": "X",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T15:22:10.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "AI broke the cybersecurity world. What’s next?",
-   "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-   "source": "The Verge AI",
-   "lang": "en",
-   "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This e…",
-   "date": "2026-11-07T15:00:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "「AIが人間に完全敗北した瞬間」――Google社員がGemini 4で動かした『時のオカリナ』移植",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4Z0lEOHdWU18yNGN5VXF0cFBlREEzbm1KZ2dBQXF4REFTbWdmZlZFWlI4a1FRVEtwdlFsUFVXd0tWdw?oc=5",
-   "source": "shiritomo",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T14:23:23.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "Harness Leaderboard公開、ハーネスを変えるだけでスコアが24ポイント動く",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDVmY2lMaFFGekE0MUNyTGVSeExNaU0yU2hnZDNQQUtZRTZXd0ZNVDNqZHF5VEhTT3RsMXp6Tkw5U3JrMjlDMS16aXdhY2pWX2RYMTRmWUwwUHM5RldrOWhQQzM3ZXp5ZHowTHA2a3V1ZE5oY3N0dHJTRF9yRVFvRVZoaG0?oc=5",
-   "source": "Pasquale Pillitteri",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T14:12:14.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "独自のＡＩエージェントはニュース報道に役立つ ガーナ通信社社長",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NQzJGcEpNT24zcHVjTFdCcFpuM1N2TG1MVEdrYnZVY09RVFNuTi1ZRTZfa2taVFpDZUFkZEhRYjByWnRhRHQ0MjViZmMzTXhWWTBVUTNfenRTQnJWT1dPUFZnTjQtZjRCOEhXdFpGNnpqOG45Snc?oc=5",
-   "source": "新華網日本語",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T12:33:31.000Z",
-   "cats": []
-  },
-  {
-   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-   "source": "The Verge AI",
-   "lang": "en",
-   "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a…",
-   "date": "2026-11-07T12:30:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "スマホに「ブッダ」「お坊さん」 AI活用、仏教界で模索 情報漏えいリスクも (時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzFNS2U4S1ZqVmRpal93Yzh6SkRHZUtBOXVxd1F5aDMzdGs4eGZFTGNKU3U2eDctUXBpSFM2RXhrM3dLdVlCa21DSHAxeHpXX2tGOFRxcmRvb2J0T1dhdkM4anFDaG9SWGtUX1NDVU45YnJRWU5mU3IxUGpYNHJ3MlhRWnZnMFJlZTdMT2xn?oc=5",
-   "source": "Yahoo!ニュース",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T11:56:30.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "Gemini「アプリ連携」Google スプレッドシート追加",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90QUdCZGxjbVozT09HelViaFpEdGU5MzFKRHpsdzdKZENGSUoyTkY3QlN4UzVkQUNveDBEblUyeDFRSUoxSzRoVUJLczlnZm16TGFaOEF3dVlsZzdyZHI0bHZjZ3BmQlhlMXNmRmt6X0lrRkVBS0laN093?oc=5",
-   "source": "Jetstream",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T11:32:11.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "日東工業、設備図面から分電盤見積情報を抽出する生成AIアプリを開発 日本IBMが支援",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MWElKZkVVYjNTQ2dYRXJlSUk1TF9vWHkzRXN2ejE1SmJLUWxvT3JZdGRBOVJ4bE1QZHdRQzZIU0hKWVhnYWhMWWdmTWZxOXJHM1J4N1I1blZyQQ?oc=5",
-   "source": "オートメーション新聞WEB",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T11:30:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "2週間で新モデル投入 Google復活の裏にある「AIがAIを作る力」の急伸力",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqazBYeTFFTFFGazlfeGlGNEt4YU1CcWRZaUk4N3Q3WW1qN2tIaHk2NkVXNF9iVVI4WklwRDZhRUtKd3BOUEhRTDRoZkNXa09IckE1V05nUVNnTXNud2FSYnFzWEx5OXhyT2d1X0RScXQ3eWwtRm5PQzhVYw?oc=5",
-   "source": "ニコニコニュース",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T11:09:08.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "ChatGPTの記憶なし特性と賢い使い方の共有が広がる",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Qcy15ME9YVlNvQUh5ZmNzRGpvNHFuTnRQRXNoNE5XZ1VudVE5UzN0bE1NX3RlZlVZNndyOGljZ2puTng1RGRwLUk1TEF6cExoRlJySy1Uaw?oc=5",
-   "source": "X",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T11:00:25.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "Claude Code",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVZW9ESlV1dnlESjJKYkxCV2FZN21GZG1TVXhNam9BLXRRakhjSXNlZ1JTRmkyV2FkalQtRDFmdl9nREQwS2dINzFDS1NlQU9CRlBKVmFjdFdNUkhPbVFzNkRn?oc=5",
-   "source": "日経クロストレンド",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T10:43:28.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "【持続可能なAIとの道】生成AIが“当たり前”になる社会で、地球は耐えられるのか",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PLXNvZnZzVW5BVGU3TWZGLVBXd2hMbE9WdjY2WkNtSU9hR0Yyb1BiNm01eDlRNWZ2dW9ld2tLT29Lb3E1WFVBTm9Mcw?oc=5",
-   "source": "ThinkIT",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T10:32:42.000Z",
-   "cats": []
-  },
-  {
-   "title": "Claude Code クラウド、依存関係とAPIキーの自動セットアップを発表",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYlFCSWRLdmZBN3lRWU5KV3ZBY1VOeWluUnRpVW5DWmpGQTdJdDlNS1BhNjNhX3QzVUNFMFczdFhGa0lTdGxqeWdnTHZYeWpXWEdYQnctWFVWOTlvU3VzOG8weHZYQWNOZHd0M1lVSkRoRmd0cUh1cjBDb2NlazRYQkF3UVI3NEx5X1JfQW1oVQ?oc=5",
-   "source": "Pasquale Pillitteri",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T09:51:58.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "AIは開発速度をお金で買う時代へ 企業の競争力を決めるものが変わる",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ubG01MkFuS250U1FGTTBfS00xamlhRzRBZFBxQVEtWFB5RmsxTGhtZTREb0VmNmpSMlJWU2ExVThaSWI2YkoyQWYxV3pkUGszTjhoRHE2bUNHTzVlSFlqdU1zbF9nQjNk?oc=5",
-   "source": "株式会社エクサウィザーズ",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T09:31:57.000Z",
-   "cats": [
-    "biz"
-   ]
-  },
-  {
-   "title": "Claude Codeがメールアドレスを各Webサイトへ送信、User-Agentのバグが判明",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR0pmNUJLT3QwZEprWVBDV0h3RjQxWjZZY1ZDLWZZYlpEVlVCOWhXMENTR3k0UHA2UHh6dlhabW9vS0tMVXVGQWtvZ21YbUhOSjljM3JGQ29weGJraENQLURLXzB0N1JKTTAxNU5VUGpfU3o5UGhiWVQ0aVRoLV9pUFZmUUtRdW8?oc=5",
-   "source": "Pasquale Pillitteri",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T09:11:56.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "【本気でAI活用したい人向け】AIガチ勢のAI環境を徹底解説！",
-   "link": "https://www.youtube.com/watch?v=8XbqxjJOP08",
-   "source": "▶ KEITO【AI&WEB ch】",
-   "lang": "ja",
-   "summary": "Claude Codeを中心に、AIやツールをつないで仕事を進める仕組みを公開。スキル・MCP・Obsidianの連携を、全体図と実例で紹介します。ブログや動画、請求書ができるまでの流れから、AIに作業を任せるための考え方と工夫がわかる内容です。 ▼KEITOの公式LINEはこちら LINE：https://lin.e…",
-   "date": "2026-11-07T09:00:36.000Z",
-   "cats": [
-    "new",
-    "howto",
-    "video"
-   ],
-   "thumb": "https://i.ytimg.com/vi/8XbqxjJOP08/mqdefault.jpg"
-  },
-  {
-   "title": "生成AIが選ぶ「転職エージェント」、1位はリクルートエージェント（言及率99.3%）【2026年10月調査】",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BQTNRS2V3djYyQkRKckI2ZWRpZTdKSHVtR2dhdTJTeFRWaHh2YzB2R3VpQ0piN3JSRm5xR2RHYTNRVnVxeHZTTUdaTXZXeUJMNXVzS2dvVHdiQm5RY2NKZ24xRU5sdnAyNkE?oc=5",
-   "source": "PR TIMES",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T09:00:02.000Z",
-   "cats": []
-  },
-  {
-   "title": "ブッダボット 仏教界でAI活用模索",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfdEhwUTdiRGVxS3VlNmVTbEhfN1FLWWZ5VkJCZ1k1VzRqNEtiMzVHNGMtck5wcFU2QVZFaGJKY3pia014MVhiUmNRSHB6M3lf?oc=5",
-   "source": "Yahoo!ニュース",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T08:45:09.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "Claudeの記憶整理機能「dreaming」、ポケモン赤はファイル少ないほうが4倍進んだ",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE83NXZ3MzE3MWx0UkQzcklWa3lxZ0FKZk1HNjR5Z3U3bXpTYS14WThPV1I5VFFOdXFLNThZOGVZNWZPdw?oc=5",
-   "source": "shiritomo",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T08:35:14.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "GarminのCOO、同社はAIを選択的に活用していると語る",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPampiWHhva2xZS003UV9GQ214WXF6TkRkVFVxSmdzakpHQm5mSjdqWHItQml2NlgzUGFfbWh0OWVsWDhSdnk1c2c0ZUY1czc0R2FFYWxqOEU4ZW1ySUJhTjNlaG1HbWo3Wm10aS1xblhOQmV1U3l4UThFV1prdVU0STF1T0NNQnRqRk5IVGVNb3FCX294MkE?oc=5",
-   "source": "Mezha.net",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T08:33:00.000Z",
-   "cats": [
-    "howto"
-   ]
-  },
-  {
-   "title": "OpenAIのロックダウンモードに回避可能な脆弱性、研究者がチャット履歴の外部送信を指摘",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01SkpoTDFvbFFqZGp6ZEM0V29CYWdKMzc5TXBqczBORkR0MktTblY5ZG5heTg1VWFxVlJXZjRYT3lMTjV6TEtSNmN3NnRGRXRNN2Q5NGZRbzNseDNUeXEwQ0NkQ3RuaFdLaXVYbTlpd1M1cHV3?oc=5",
-   "source": "BigGo ファイナンス",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T08:25:00.000Z",
-   "cats": []
-  },
-  {
-   "title": "プレスリリース：生成AIが選ぶ「Web制作会社」、1位はLIG（言及率51.8%）［2026年10月調査］（PR TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HQ3UyVjNmaVVuZUd2d3M3VmJRdGVRZkItMXJvOXk4U1Zrbm9SVE80SXY5czN5S3NwbjA3Z2YxdjdvZkQ4a1dDMEthb0xVMFRfMUgwMTJqZi1EZE12bURRQjMtZ2EzUEdK?oc=5",
-   "source": "毎日新聞",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T08:22:28.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "「子の認知」を求める裁判を支えた生成AI",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BS25RREtZNE0wbHhjT3hFQU15d0xWeFhHRko4WWZpeHJZa2NCYWkzUm9jUHEwd3NkNnJhY3FpR29yeEluY09zNnNzX2tuNEppeWtVNS1yTUUzT01aQ2lfbHhnUmdueFNC?oc=5",
-   "source": "毎日新聞",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T08:08:35.000Z",
-   "cats": []
-  },
-  {
-   "title": "プレスリリース：生成AIが選ぶ「弁護士事務所」、1位はベリーベスト法律事務所（言及率47.6%）［2026年10月調査］（PR TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zNUtjN052TC1WdVgzN3l6NXRUX1JDTVVzSVdnNS1qbEJMeExmQmg3dzZ1TXJhcFAySi1KeFBVY2JtaXhjY2xqak92TlJmNEpqeVoyeFlNSWpDQl9tbjNYc0Zlc0I1REhm?oc=5",
-   "source": "毎日新聞",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T07:52:40.000Z",
-   "cats": [
-    "new"
-   ]
-  },
-  {
-   "title": "桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80NDdwSkpOUGY4QmVKLWk2RzJFWDJjcU1rbUVueFFKbUlEMEpSZURlYWVVMlFFeDAzcUxZNFdKUUYwYU5RZkNUZkZ6anFGOG9pSFBVMkFrdw?oc=5",
-   "source": "ファミ通",
-   "lang": "ja",
-   "summary": "",
-   "date": "2026-11-07T07:42:00.000Z",
-   "cats": []
   }
  ]
 }
